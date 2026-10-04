@@ -57,6 +57,10 @@ html[data-theme="dark"] #page-header #post-info {
    2. 明亮模式文本颜色（避免白色背景上文字看不清）
    ========================================================== */
 
+/* ==========================================================
+   2. 明亮模式文本颜色（背景为深色图，文字用白色）
+   ========================================================== */
+
 html:not([data-theme="dark"]) #site-title,
 html:not([data-theme="dark"]) .site-title,
 html:not([data-theme="dark"]) #site-name,
@@ -64,8 +68,8 @@ html:not([data-theme="dark"]) #site-info .site-subtitle,
 html:not([data-theme="dark"]) #subtitle,
 html:not([data-theme="dark"]) #nav #blog-info .site-name,
 html:not([data-theme="dark"]) #nav #blog-info a {
-  color: #2c3e50;
-  text-shadow: none;
+  color: #ffffff;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
 }
 
 html:not([data-theme="dark"]) #nav .site-page,
@@ -74,14 +78,14 @@ html:not([data-theme="dark"]) #nav .menus_items .menus_item > a > i,
 html:not([data-theme="dark"]) #search-button > a,
 html:not([data-theme="dark"]) #search-button > a > span,
 html:not([data-theme="dark"]) #search-button > a > i {
-  color: #2c3e50;
-  text-shadow: none;
+  color: #ffffff;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
 }
 
 html:not([data-theme="dark"]) #nav .menus_item:hover > a,
 html:not([data-theme="dark"]) #nav .menus_item:hover > a > span,
 html:not([data-theme="dark"]) #nav .menus_item:hover > a > i {
-  color: #49b1f5;
+  color: #ff7142;    /* 悬停时变主题色 */
 }
 
 html:not([data-theme="dark"]) #page-header .page-title,
@@ -96,8 +100,8 @@ html:not([data-theme="dark"]) #post-info #post-meta,
 html:not([data-theme="dark"]) #post-info #post-meta a,
 html:not([data-theme="dark"]) #post-info #post-meta .post-meta-separator,
 html:not([data-theme="dark"]) #post-info #post-meta i {
-  color: #2c3e50;
-  text-shadow: none;
+  color: #ffffff;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
 }
 
 

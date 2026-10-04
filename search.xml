@@ -19,6 +19,11 @@
 ]]></content>
   </entry>
   <entry>
+    <title>my-first-post</title>
+    <url>/2026/10/04/my-first-post/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>我的第一篇文章</title>
     <url>/2026/10/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><p>正文内容，用 Markdown 写。</p>
@@ -37,10 +42,5 @@
         <tag>Hexo</tag>
         <tag>建站</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>my-first-post</title>
-    <url>/2026/10/04/my-first-post/</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
