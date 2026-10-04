@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>我的第一篇文章</title>
-    <url>/2026/10/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><p>正文内容，用 Markdown 写。</p>
-<ul>
-<li>列表项 1</li>
-<li>列表项 2</li>
-</ul>
-<p><strong>加粗</strong>、<em>斜体</em>、<code>代码</code>、<a href="https://example.com/">链接</a></p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;代码块&quot;</span>)</span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>技术</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>建站</tag>
-      </tags>
+    <title>my-first-post</title>
+    <url>/2026/10/04/my-first-post/</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -39,8 +24,23 @@
 ]]></content>
   </entry>
   <entry>
-    <title>my-first-post</title>
-    <url>/2026/10/04/my-first-post/</url>
-    <content><![CDATA[]]></content>
+    <title>我的第一篇文章</title>
+    <url>/2026/10/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><p>正文内容，用 Markdown 写。</p>
+<ul>
+<li>列表项 1</li>
+<li>列表项 2</li>
+</ul>
+<p><strong>加粗</strong>、<em>斜体</em>、<code>代码</code>、<a href="https://example.com/">链接</a></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;代码块&quot;</span>)</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>建站</tag>
+      </tags>
   </entry>
 </search>
