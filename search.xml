@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/2026/10/04/hello-world/</url>
+    <url>/posts/4a17b156.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -20,26 +20,12 @@
   </entry>
   <entry>
     <title>my-first-post</title>
-    <url>/2026/10/04/my-first-post/</url>
+    <url>/posts/7fa08d77.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>ChatGPT随身WiFi智能音箱之准备材料</title>
-    <url>/2023/05/29/suishen_wifi_md/0.ChatGpt%E9%9A%8F%E8%BA%ABWiFi%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1%E4%B9%8B%E5%87%86%E5%A4%87%E6%9D%90%E6%96%99/</url>
-    <content><![CDATA[<h3 id="1-410的随身wifi"><a href="#1-410的随身wifi" class="headerlink" title="1.410的随身wifi"></a>1.410的随身wifi</h3><p>我用的UFI001c</p>
-<p><a href="https://s2.loli.net/2023/05/29/yPAvL8rz2fKpFgQ.png"><img src="https://s2.loli.net/2023/05/29/yPAvL8rz2fKpFgQ.png" alt="image-20230529010358660"></a></p>
-<h3 id="2-debian固件"><a href="#2-debian固件" class="headerlink" title="2.debian固件"></a>2.debian固件</h3><p><a href="https://www.coolapk.com/feed/37616461?shareKey=MmMzNDM0MTU3ZTU5NjQ3MzhhOTA~&shareUid=3727115&shareFrom=com.coolapk.market_13.0.1">https://www.coolapk.com/feed/37616461?shareKey=MmMzNDM0MTU3ZTU5NjQ3MzhhOTA~&amp;shareUid&#x3D;3727115&amp;shareFrom&#x3D;com.coolapk.market_13.0.1</a></p>
-<h3 id="3-拓展坞"><a href="#3-拓展坞" class="headerlink" title="3.拓展坞"></a>3.拓展坞</h3><p><a href="https://s2.loli.net/2023/05/29/NKjDiOvAsLqlIZY.png"><img src="https://s2.loli.net/2023/05/29/NKjDiOvAsLqlIZY.png" alt="image-20230529010941289"></a></p>
-<h3 id="4-笔记本usb声卡"><a href="#4-笔记本usb声卡" class="headerlink" title="4.笔记本usb声卡"></a>4.笔记本usb声卡</h3><p><a href="https://s2.loli.net/2023/05/29/bKX7OYnZHNmyzkQ.png"><img src="https://s2.loli.net/2023/05/29/bKX7OYnZHNmyzkQ.png" alt="image-20230529010142003"></a></p>
-<h3 id="5-usb免驱摄像头-带麦克风"><a href="#5-usb免驱摄像头-带麦克风" class="headerlink" title="5.usb免驱摄像头(带麦克风)"></a>5.usb免驱摄像头(带麦克风)</h3><p><a href="https://s2.loli.net/2023/05/29/GZ3mMVHJSgnhDo9.png"><img src="https://s2.loli.net/2023/05/29/GZ3mMVHJSgnhDo9.png" alt="image-20230529010246278"></a></p>
-<h3 id="6-小音箱-随便选应该都行"><a href="#6-小音箱-随便选应该都行" class="headerlink" title="6.小音箱,随便选应该都行"></a>6.小音箱,随便选应该都行</h3><p><a href="https://s2.loli.net/2023/05/29/YnTXbMKzNkyR3sW.png"><img src="https://s2.loli.net/2023/05/29/YnTXbMKzNkyR3sW.png" alt="image-20230529010304213"></a></p>
-<h3 id="7-总共花费31-4"><a href="#7-总共花费31-4" class="headerlink" title="7.总共花费31.4"></a>7.总共花费31.4</h3><p>拓展坞自己打的,其他电子设备都是买的</p>
-<p><a href="https://s2.loli.net/2023/05/29/OWjPzeducA492Ry.png"><img src="https://s2.loli.net/2023/05/29/OWjPzeducA492Ry.png"></a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>我的第一篇文章</title>
-    <url>/2026/10/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <url>/posts/7a776471.html</url>
     <content><![CDATA[<h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><p>正文内容，用 Markdown 写。</p>
 <ul>
 <li>列表项 1</li>
@@ -58,8 +44,73 @@
       </tags>
   </entry>
   <entry>
+    <title>ChatGPT随身WiFi智能音箱之连接录音设备录音</title>
+    <url>/posts/c46ac84b.html</url>
+    <content><![CDATA[<h3 id="1-连接录音设备"><a href="#1-连接录音设备" class="headerlink" title="1.连接录音设备"></a>1.连接录音设备</h3><p><a href="https://s2.loli.net/2023/05/29/BiLlAoxEDbIsh8Q.png"><img src="https://s2.loli.net/2023/05/29/BiLlAoxEDbIsh8Q.png" alt="image-20230529003540920"></a></p>
+<h3 id="2-检查系统中可用的音频输入设备"><a href="#2-检查系统中可用的音频输入设备" class="headerlink" title="2.检查系统中可用的音频输入设备"></a>2.检查系统中可用的音频输入设备</h3><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">pacmd list-sources</span><br></pre></td></tr></table></figure>
+
+<p>可以看到我这上边有两个录音设备</p>
+<p><a href="https://s2.loli.net/2023/05/29/UEaN7jdzqeLCrtY.png"><img src="https://s2.loli.net/2023/05/29/UEaN7jdzqeLCrtY.png" alt="image-20230529002228018"></a></p>
+<h3 id="3-设置默认的录音设备"><a href="#3-设置默认的录音设备" class="headerlink" title="3.设置默认的录音设备"></a>3.设置默认的录音设备</h3><p>看不懂这些信息,直接复制粘贴给chatGpt</p>
+<p><a href="https://s2.loli.net/2023/05/29/eaX7bzkmp5FSwM3.png"><img src="https://s2.loli.net/2023/05/29/eaX7bzkmp5FSwM3.png" alt="image-20230529002500661"></a></p>
+<p><a href="https://s2.loli.net/2023/05/29/2WbjYmLlHqT5GEg.png"><img src="https://s2.loli.net/2023/05/29/2WbjYmLlHqT5GEg.png" alt="image-20230529002522926"></a></p>
+<p>根据chatGpt的回答找出哪个是录音设备,然后使用以下命令将其设置为默认设备</p>
+<p>格式: pacmd set-default-source 设备名</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">pacmd set-default-source alsa_input.usb-GeneralPlus_USB_Audio_Device-00.mono-fallback</span><br></pre></td></tr></table></figure>
+
+<p><a href="https://s2.loli.net/2023/05/29/1fMWHSJDwCgnX9o.png"><img src="https://s2.loli.net/2023/05/29/1fMWHSJDwCgnX9o.png" alt="image-20230529003108179"></a></p>
+<h3 id="4-录音"><a href="#4-录音" class="headerlink" title="4.录音"></a>4.录音</h3><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">arecord -f cd recording.wav</span><br></pre></td></tr></table></figure>
+
+<p><a href="https://s2.loli.net/2023/05/29/3NFq7c1fJe4gPOB.png"><img src="https://s2.loli.net/2023/05/29/3NFq7c1fJe4gPOB.png" alt="image-20230529003132714"></a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Ctrl+c退出录音</span><br></pre></td></tr></table></figure>
+
+<h3 id="5-播放录音"><a href="#5-播放录音" class="headerlink" title="5.播放录音"></a>5.播放录音</h3><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">mplayer recording.wav </span><br></pre></td></tr></table></figure>
+
+<p><a href="https://s2.loli.net/2023/05/29/AEWr4ow6h9p21xK.png"><img src="https://s2.loli.net/2023/05/29/AEWr4ow6h9p21xK.png" alt="image-20230529003229505"></a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>ChatGPT随身WiFi智能音箱之连接摄像头拍照录像</title>
+    <url>/posts/3eb20c88.html</url>
+    <content><![CDATA[<h3 id="1-连接摄像头"><a href="#1-连接摄像头" class="headerlink" title="1.连接摄像头"></a>1.连接摄像头</h3><p><a href="https://s2.loli.net/2023/05/29/IpdOl31XZQixMKn.png"><img src="https://s2.loli.net/2023/05/29/IpdOl31XZQixMKn.png" alt="image-20230529004237308"></a></p>
+<h3 id="2-检查系统中的摄像设备"><a href="#2-检查系统中的摄像设备" class="headerlink" title="2.检查系统中的摄像设备"></a>2.检查系统中的摄像设备</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ls /dev/video*</span><br></pre></td></tr></table></figure>
+
+<p><a href="https://s2.loli.net/2023/05/29/hBvel8ZsMGANR7m.png"><img src="https://s2.loli.net/2023/05/29/hBvel8ZsMGANR7m.png" alt="image-20230529004414019"></a></p>
+<h3 id="3-安装摄像软件包"><a href="#3-安装摄像软件包" class="headerlink" title="3.安装摄像软件包"></a>3.安装摄像软件包</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo apt-get install fswebcam</span><br></pre></td></tr></table></figure>
+
+<p><a href="https://s2.loli.net/2023/05/29/oQRZp6FYTtmWk3z.png"><img src="https://s2.loli.net/2023/05/29/oQRZp6FYTtmWk3z.png" alt="image-20230529004558126"></a></p>
+<h3 id="4-使用设备进行摄像-每个都试试-看那个能拍出来照片"><a href="#4-使用设备进行摄像-每个都试试-看那个能拍出来照片" class="headerlink" title="4.使用设备进行摄像(每个都试试,看那个能拍出来照片)"></a>4.使用设备进行摄像(每个都试试,看那个能拍出来照片)</h3><p>4.1使用video0拍照</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fswebcam -d /dev/video0 image.jpg</span><br></pre></td></tr></table></figure>
+
+<p><a href="https://s2.loli.net/2023/05/29/pJk4f8IyaMZ65oS.png"><img src="https://s2.loli.net/2023/05/29/pJk4f8IyaMZ65oS.png" alt="image-20230529004803168"></a></p>
+<p>有报错,说明这个不能用</p>
+<p>4.2使用video1拍照</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fswebcam -d /dev/video1 image.jpg</span><br></pre></td></tr></table></figure>
+
+<p><a href="https://s2.loli.net/2023/05/29/pAxwDjhe47f9rQW.png"><img src="https://s2.loli.net/2023/05/29/pAxwDjhe47f9rQW.png" alt="image-20230529004854347"></a></p>
+<p>还报错说明不能用</p>
+<p>4.3使用video2拍照</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fswebcam -d /dev/video2 image.jpg</span><br></pre></td></tr></table></figure>
+
+<p><a href="https://s2.loli.net/2023/05/29/9z7EcqbDJvkdZjG.png"><img src="https://s2.loli.net/2023/05/29/9z7EcqbDJvkdZjG.png" alt="image-20230529005002956"></a></p>
+<p>可以看到没有报错,说明拍照成功了,从服务器上拷贝到本地电脑进行查看</p>
+<p><a href="https://s2.loli.net/2023/05/29/VMzgt4TQry1Csdx.png"><img src="https://s2.loli.net/2023/05/29/VMzgt4TQry1Csdx.png" alt="image-20230529112807356"></a></p>
+<p>可以看到拍出来的照片</p>
+<h3 id="5-录视频"><a href="#5-录视频" class="headerlink" title="5.录视频"></a>5.录视频</h3><p>5.1安装录视频工具</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo apt-get install ffmpeg</span><br></pre></td></tr></table></figure>
+
+<p><a href="https://s2.loli.net/2023/05/29/5eh1wbNjrtGDcF8.png"><img src="https://s2.loli.net/2023/05/29/5eh1wbNjrtGDcF8.png" alt="image-20230529005352795"></a></p>
+<p>5.2录制60s视频</p>
+<p>格式: ffmpeg -f v4l2 -i &#x2F;dev&#x2F;video上一步拍照用的那个video几 -c:v libx264 -preset ultrafast -t 60 文件名.mp4</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">ffmpeg -f v4l2 -i /dev/video2 -c:v libx264 -preset ultrafast -t 60 video.mp4</span><br></pre></td></tr></table></figure>
+
+<p>5.3视频录制好之后,拷贝到本地电脑,进行查看</p>
+<p><a href="https://s2.loli.net/2023/05/29/AkEhzK64eWY9rHL.png"><img src="https://s2.loli.net/2023/05/29/AkEhzK64eWY9rHL.png" alt="image-20230529005755178"></a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>ChatGPT随身WiFi智能音箱之连接音箱播放音乐</title>
-    <url>/2023/05/29/suishen_wifi_md/1.ChatGpt%E9%9A%8F%E8%BA%ABWiFi%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1%E4%B9%8B%E8%BF%9E%E6%8E%A5%E9%9F%B3%E7%AE%B1%E6%92%AD%E6%94%BE%E9%9F%B3%E4%B9%90/</url>
+    <url>/posts/7bcc9bf6.html</url>
     <content><![CDATA[<h3 id="1-插线"><a href="#1-插线" class="headerlink" title="1.插线"></a>1.插线</h3><p><a href="https://s2.loli.net/2023/05/29/CK9ZF5UfQl7NAno.png"><img src="https://s2.loli.net/2023/05/29/CK9ZF5UfQl7NAno.png" alt="image-20230529003829612"></a></p>
 <h3 id="2-开机"><a href="#2-开机" class="headerlink" title="2.开机"></a>2.开机</h3><h3 id="3-安装播放器-上传音乐到随身wifi"><a href="#3-安装播放器-上传音乐到随身wifi" class="headerlink" title="3.安装播放器&amp;上传音乐到随身wifi"></a>3.安装播放器&amp;上传音乐到随身wifi</h3><p>3.1 安装播放器</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt install mplayer</span><br></pre></td></tr></table></figure>
@@ -111,80 +162,8 @@
 ]]></content>
   </entry>
   <entry>
-    <title>ChatGPT随身WiFi智能音箱之连接摄像头拍照录像</title>
-    <url>/2023/05/29/suishen_wifi_md/3.ChatGpt%E9%9A%8F%E8%BA%ABWiFi%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1%E4%B9%8B%E8%BF%9E%E6%8E%A5%E6%91%84%E5%83%8F%E5%A4%B4%E6%8B%8D%E7%85%A7%E5%BD%95%E5%83%8F/</url>
-    <content><![CDATA[<h3 id="1-连接摄像头"><a href="#1-连接摄像头" class="headerlink" title="1.连接摄像头"></a>1.连接摄像头</h3><p><a href="https://s2.loli.net/2023/05/29/IpdOl31XZQixMKn.png"><img src="https://s2.loli.net/2023/05/29/IpdOl31XZQixMKn.png" alt="image-20230529004237308"></a></p>
-<h3 id="2-检查系统中的摄像设备"><a href="#2-检查系统中的摄像设备" class="headerlink" title="2.检查系统中的摄像设备"></a>2.检查系统中的摄像设备</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ls /dev/video*</span><br></pre></td></tr></table></figure>
-
-<p><a href="https://s2.loli.net/2023/05/29/hBvel8ZsMGANR7m.png"><img src="https://s2.loli.net/2023/05/29/hBvel8ZsMGANR7m.png" alt="image-20230529004414019"></a></p>
-<h3 id="3-安装摄像软件包"><a href="#3-安装摄像软件包" class="headerlink" title="3.安装摄像软件包"></a>3.安装摄像软件包</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo apt-get install fswebcam</span><br></pre></td></tr></table></figure>
-
-<p><a href="https://s2.loli.net/2023/05/29/oQRZp6FYTtmWk3z.png"><img src="https://s2.loli.net/2023/05/29/oQRZp6FYTtmWk3z.png" alt="image-20230529004558126"></a></p>
-<h3 id="4-使用设备进行摄像-每个都试试-看那个能拍出来照片"><a href="#4-使用设备进行摄像-每个都试试-看那个能拍出来照片" class="headerlink" title="4.使用设备进行摄像(每个都试试,看那个能拍出来照片)"></a>4.使用设备进行摄像(每个都试试,看那个能拍出来照片)</h3><p>4.1使用video0拍照</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fswebcam -d /dev/video0 image.jpg</span><br></pre></td></tr></table></figure>
-
-<p><a href="https://s2.loli.net/2023/05/29/pJk4f8IyaMZ65oS.png"><img src="https://s2.loli.net/2023/05/29/pJk4f8IyaMZ65oS.png" alt="image-20230529004803168"></a></p>
-<p>有报错,说明这个不能用</p>
-<p>4.2使用video1拍照</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fswebcam -d /dev/video1 image.jpg</span><br></pre></td></tr></table></figure>
-
-<p><a href="https://s2.loli.net/2023/05/29/pAxwDjhe47f9rQW.png"><img src="https://s2.loli.net/2023/05/29/pAxwDjhe47f9rQW.png" alt="image-20230529004854347"></a></p>
-<p>还报错说明不能用</p>
-<p>4.3使用video2拍照</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fswebcam -d /dev/video2 image.jpg</span><br></pre></td></tr></table></figure>
-
-<p><a href="https://s2.loli.net/2023/05/29/9z7EcqbDJvkdZjG.png"><img src="https://s2.loli.net/2023/05/29/9z7EcqbDJvkdZjG.png" alt="image-20230529005002956"></a></p>
-<p>可以看到没有报错,说明拍照成功了,从服务器上拷贝到本地电脑进行查看</p>
-<p><a href="https://s2.loli.net/2023/05/29/VMzgt4TQry1Csdx.png"><img src="https://s2.loli.net/2023/05/29/VMzgt4TQry1Csdx.png" alt="image-20230529112807356"></a></p>
-<p>可以看到拍出来的照片</p>
-<h3 id="5-录视频"><a href="#5-录视频" class="headerlink" title="5.录视频"></a>5.录视频</h3><p>5.1安装录视频工具</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo apt-get install ffmpeg</span><br></pre></td></tr></table></figure>
-
-<p><a href="https://s2.loli.net/2023/05/29/5eh1wbNjrtGDcF8.png"><img src="https://s2.loli.net/2023/05/29/5eh1wbNjrtGDcF8.png" alt="image-20230529005352795"></a></p>
-<p>5.2录制60s视频</p>
-<p>格式: ffmpeg -f v4l2 -i &#x2F;dev&#x2F;video上一步拍照用的那个video几 -c:v libx264 -preset ultrafast -t 60 文件名.mp4</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">ffmpeg -f v4l2 -i /dev/video2 -c:v libx264 -preset ultrafast -t 60 video.mp4</span><br></pre></td></tr></table></figure>
-
-<p>5.3视频录制好之后,拷贝到本地电脑,进行查看</p>
-<p><a href="https://s2.loli.net/2023/05/29/AkEhzK64eWY9rHL.png"><img src="https://s2.loli.net/2023/05/29/AkEhzK64eWY9rHL.png" alt="image-20230529005755178"></a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>ChatGPT随身WiFi智能音箱之制作ChatGPT智能音箱</title>
-    <url>/2023/05/29/suishen_wifi_md/4.ChatGpt%E9%9A%8F%E8%BA%ABWiFi%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1%E4%B9%8B%E5%88%B6%E4%BD%9CChatGpt%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1/</url>
-    <content><![CDATA[<h3 id="0-前期准备"><a href="#0-前期准备" class="headerlink" title="0.前期准备"></a>0.前期准备</h3><p>0.1插好设备线</p>
-<p>0.2.开启USB HUB模式</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">echo host &gt; /sys/kernel/debug/usb/ci_hdrc.0/role</span><br></pre></td></tr></table></figure>
-
-<p>0.3.检查PulseAudio是否正在运行并具有默认的音频输入和输出设备，请按照以下步骤操作：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1. 打开终端窗口。</span><br><span class="line">2. 运行`pulseaudio --check`命令，以确保PulseAudio正在运行。如果PulseAudio未运行，则可以使用`pulseaudio --start`命令启动它。</span><br><span class="line">3. 运行`pacmd list-sinks`命令，以查看当前的音频输出设备。默认情况下，应该存在一个名为`alsa_output.pci-0000_00_1f.3.analog-stereo`的设备。</span><br><span class="line">4. 运行`pacmd list-sources`命令，以查看当前的音频输入设备。默认情况下，应该存在一个名为`alsa_input.pci-0000_00_1f.3.analog-stereo`的设备。</span><br></pre></td></tr></table></figure>
-
-<h3 id="1-克隆项目"><a href="#1-克隆项目" class="headerlink" title="1.克隆项目"></a>1.克隆项目</h3><p>1.1在根目录创建文件夹</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">mkdir geren</span><br><span class="line"></span><br><span class="line">cd geren</span><br></pre></td></tr></table></figure>
-
-<p>1.2克隆本项目到本地</p>
-<p>git clone <a href="https://github.com/conlindd/chat-meow.git">https://github.com/conlindd/chat-meow.git</a></p>
-<h3 id="2-配置ChatGpt-Api-和百度语音识别APi"><a href="#2-配置ChatGpt-Api-和百度语音识别APi" class="headerlink" title="2.配置ChatGpt Api 和百度语音识别APi"></a>2.配置ChatGpt Api 和百度语音识别APi</h3><p>2.1在项目根目录的key.yml文件中配置百度语音识别Api</p>
-<p>申请地址：<a href="https://developer.baidu.com/">https://developer.baidu.com/</a></p>
-<p><a href="https://s2.loli.net/2023/05/29/kQYD91zAxcvtmg4.png"><img src="https://s2.loli.net/2023/05/29/kQYD91zAxcvtmg4.png" alt="image-20230529104053413"></a></p>
-<p><a href="https://s2.loli.net/2023/05/29/rSTMu8WsOoCjIeF.png"><img src="https://s2.loli.net/2023/05/29/rSTMu8WsOoCjIeF.png" alt="image-20230529104133901"></a></p>
-<p><a href="https://s2.loli.net/2023/05/29/DC7TJaRMusQyOoL.png"><img src="https://s2.loli.net/2023/05/29/DC7TJaRMusQyOoL.png" alt="image-20230529103851456"></a></p>
-<p>2.2在项目根路径下的chat.py文件中配置ChatGpt Api</p>
-<p><a href="https://s2.loli.net/2023/05/29/4ReELsNWzrBAmPo.png"><img src="https://s2.loli.net/2023/05/29/4ReELsNWzrBAmPo.png" alt="image-20230529103442892"></a></p>
-<h3 id="3-部署"><a href="#3-部署" class="headerlink" title="3.部署"></a>3.部署</h3><p>在克隆的项目根路径执行命令</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">docker run -d \</span><br><span class="line">    -v /geren/chat-meow:/chat \</span><br><span class="line">    -v /dev/snd:/dev/snd \</span><br><span class="line">    --privileged \</span><br><span class="line">    -e PULSE_SERVER=unix:/run/pulse/native \</span><br><span class="line">    -e PULSE_COOKIE=/run/pulse/cookie \</span><br><span class="line">    -e PULSE_SINK=alsa_output.usb-Device-1c4f_2072-00.analog-stereo \</span><br><span class="line">    -e PULSE_SOURCE=alsa_input.usb-Device-1c4f_2072-00.analog-stereo \</span><br><span class="line">    -e ALSA_CARD=1 \</span><br><span class="line">    kjqaq/chatmeow</span><br></pre></td></tr></table></figure>
-
-<p><a href="https://s2.loli.net/2023/05/29/RGUuLH4zhqPAk8Y.png"><img src="https://s2.loli.net/2023/05/29/RGUuLH4zhqPAk8Y.png" alt="image-20230529105029863"></a></p>
-<p><a href="https://s2.loli.net/2023/05/29/FAzD1G9njYpKM23.png"><img src="https://s2.loli.net/2023/05/29/FAzD1G9njYpKM23.png" alt="image-20230529105120366"></a></p>
-<h3 id="4-和ChatGpt智能语音对话聊天"><a href="#4-和ChatGpt智能语音对话聊天" class="headerlink" title="4.和ChatGpt智能语音对话聊天"></a>4.和ChatGpt智能语音对话聊天</h3><p><a href="https://s2.loli.net/2023/05/29/PKFHELY29b6DiuG.png"><img src="https://s2.loli.net/2023/05/29/PKFHELY29b6DiuG.png" alt="image-20230529105217143"></a></p>
-<p><a href="https://s2.loli.net/2023/05/29/EFqXB6SkYIf7o5O.png"><img src="https://s2.loli.net/2023/05/29/EFqXB6SkYIf7o5O.png" alt="image-20230529105232081"></a></p>
-<p><a href="https://s2.loli.net/2023/05/29/osTFBq5d1A7LJ2Y.png"><img src="https://s2.loli.net/2023/05/29/osTFBq5d1A7LJ2Y.png" alt="image-20230529105257951"></a></p>
-<p>项目原作者:<a href="https://github.com/MeowKJ/chat-meow">MeowKJ&#x2F;chat-meow (github.com)</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>MrkDown+Hexo语法</title>
-    <url>/2023/05/28/suishen_wifi_md/MrkDownplusHexo%E8%AF%AD%E6%B3%95/</url>
+    <url>/posts/8e93394.html</url>
     <content><![CDATA[<h3 id="Markdown-语法"><a href="#Markdown-语法" class="headerlink" title="Markdown 语法"></a>Markdown 语法</h3><p>在编写 Markdown 时，博主强烈的推荐给大家一款简洁易用的 Markdown 编辑器 —— Typora</p>
 <p>按照官方的说法就是 <strong>简单而强大</strong>，它不仅支持原生的语法，也支持对应的快捷键，更重要的是它还可以 <strong>实时预览</strong></p>
 <p>这里附上 Typora 的下载地址：<a href="https://www.typora.io/">https://www.typora.io/</a>，有兴趣的朋友可以下载来试试</p>
@@ -282,50 +261,41 @@
 ]]></content>
   </entry>
   <entry>
-    <title>debian安装包安装python</title>
-    <url>/2023/05/28/suishen_wifi_md/debian%E5%AE%89%E8%A3%85%E5%8C%85%E5%AE%89%E8%A3%85python/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>系统环境：<a href="https://so.csdn.net/so/search?q=Debian&spm=1001.2101.3001.7020">Debian</a> Linux 10</p>
-<p>计划安装：Python 3.10.3</p>
-<h2 id="一、下载python源码"><a href="#一、下载python源码" class="headerlink" title="一、下载python源码"></a>一、下载python<a href="https://so.csdn.net/so/search?q=%E6%BA%90%E7%A0%81&spm=1001.2101.3001.7020">源码</a></h2><p>在Python官网上下载源码</p>
-<p><a href="https://www.python.org/downloads/source/[%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD](https://www.python.org/downloads/source/)%E3%80%82">https://www.python.org/downloads/source/<a href="https://www.python.org/downloads/source/">源码下载</a>。</a></p>
-<h2 id="二、安装步骤"><a href="#二、安装步骤" class="headerlink" title="二、安装步骤"></a>二、安装步骤</h2><p>主要参照源码包里面的说明，网上也有教程。</p>
-<p>1.源码解压缩，进入文件夹，在终端中打开</p>
-<h2 id="2-安装"><a href="#2-安装" class="headerlink" title="2.安装"></a>2.安装</h2><p>代码如下：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">./configure</span><br><span class="line">make</span><br><span class="line">make test</span><br><span class="line">sudo make install</span><br></pre></td></tr></table></figure>
+    <title>ChatGPT随身WiFi智能音箱之制作ChatGPT智能音箱</title>
+    <url>/posts/c5b92221.html</url>
+    <content><![CDATA[<h3 id="0-前期准备"><a href="#0-前期准备" class="headerlink" title="0.前期准备"></a>0.前期准备</h3><p>0.1插好设备线</p>
+<p>0.2.开启USB HUB模式</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">echo host &gt; /sys/kernel/debug/usb/ci_hdrc.0/role</span><br></pre></td></tr></table></figure>
 
-<h2 id="3-调试"><a href="#3-调试" class="headerlink" title="3.调试"></a>3.调试</h2><p>运行完以上代码按说应该是安装完了，但是不一定能用，需要测试一下。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">python3 --version</span><br></pre></td></tr></table></figure>
-]]></content>
-  </entry>
-  <entry>
-    <title>ChatGPT随身WiFi智能音箱之连接录音设备录音</title>
-    <url>/2023/05/29/suishen_wifi_md/2.ChatGpt%E9%9A%8F%E8%BA%ABWiFi%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1%E4%B9%8B%E8%BF%9E%E6%8E%A5%E5%BD%95%E9%9F%B3%E8%AE%BE%E5%A4%87%E5%BD%95%E9%9F%B3/</url>
-    <content><![CDATA[<h3 id="1-连接录音设备"><a href="#1-连接录音设备" class="headerlink" title="1.连接录音设备"></a>1.连接录音设备</h3><p><a href="https://s2.loli.net/2023/05/29/BiLlAoxEDbIsh8Q.png"><img src="https://s2.loli.net/2023/05/29/BiLlAoxEDbIsh8Q.png" alt="image-20230529003540920"></a></p>
-<h3 id="2-检查系统中可用的音频输入设备"><a href="#2-检查系统中可用的音频输入设备" class="headerlink" title="2.检查系统中可用的音频输入设备"></a>2.检查系统中可用的音频输入设备</h3><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">pacmd list-sources</span><br></pre></td></tr></table></figure>
+<p>0.3.检查PulseAudio是否正在运行并具有默认的音频输入和输出设备，请按照以下步骤操作：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1. 打开终端窗口。</span><br><span class="line">2. 运行`pulseaudio --check`命令，以确保PulseAudio正在运行。如果PulseAudio未运行，则可以使用`pulseaudio --start`命令启动它。</span><br><span class="line">3. 运行`pacmd list-sinks`命令，以查看当前的音频输出设备。默认情况下，应该存在一个名为`alsa_output.pci-0000_00_1f.3.analog-stereo`的设备。</span><br><span class="line">4. 运行`pacmd list-sources`命令，以查看当前的音频输入设备。默认情况下，应该存在一个名为`alsa_input.pci-0000_00_1f.3.analog-stereo`的设备。</span><br></pre></td></tr></table></figure>
 
-<p>可以看到我这上边有两个录音设备</p>
-<p><a href="https://s2.loli.net/2023/05/29/UEaN7jdzqeLCrtY.png"><img src="https://s2.loli.net/2023/05/29/UEaN7jdzqeLCrtY.png" alt="image-20230529002228018"></a></p>
-<h3 id="3-设置默认的录音设备"><a href="#3-设置默认的录音设备" class="headerlink" title="3.设置默认的录音设备"></a>3.设置默认的录音设备</h3><p>看不懂这些信息,直接复制粘贴给chatGpt</p>
-<p><a href="https://s2.loli.net/2023/05/29/eaX7bzkmp5FSwM3.png"><img src="https://s2.loli.net/2023/05/29/eaX7bzkmp5FSwM3.png" alt="image-20230529002500661"></a></p>
-<p><a href="https://s2.loli.net/2023/05/29/2WbjYmLlHqT5GEg.png"><img src="https://s2.loli.net/2023/05/29/2WbjYmLlHqT5GEg.png" alt="image-20230529002522926"></a></p>
-<p>根据chatGpt的回答找出哪个是录音设备,然后使用以下命令将其设置为默认设备</p>
-<p>格式: pacmd set-default-source 设备名</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">pacmd set-default-source alsa_input.usb-GeneralPlus_USB_Audio_Device-00.mono-fallback</span><br></pre></td></tr></table></figure>
+<h3 id="1-克隆项目"><a href="#1-克隆项目" class="headerlink" title="1.克隆项目"></a>1.克隆项目</h3><p>1.1在根目录创建文件夹</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">mkdir geren</span><br><span class="line"></span><br><span class="line">cd geren</span><br></pre></td></tr></table></figure>
 
-<p><a href="https://s2.loli.net/2023/05/29/1fMWHSJDwCgnX9o.png"><img src="https://s2.loli.net/2023/05/29/1fMWHSJDwCgnX9o.png" alt="image-20230529003108179"></a></p>
-<h3 id="4-录音"><a href="#4-录音" class="headerlink" title="4.录音"></a>4.录音</h3><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">arecord -f cd recording.wav</span><br></pre></td></tr></table></figure>
+<p>1.2克隆本项目到本地</p>
+<p>git clone <a href="https://github.com/conlindd/chat-meow.git">https://github.com/conlindd/chat-meow.git</a></p>
+<h3 id="2-配置ChatGpt-Api-和百度语音识别APi"><a href="#2-配置ChatGpt-Api-和百度语音识别APi" class="headerlink" title="2.配置ChatGpt Api 和百度语音识别APi"></a>2.配置ChatGpt Api 和百度语音识别APi</h3><p>2.1在项目根目录的key.yml文件中配置百度语音识别Api</p>
+<p>申请地址：<a href="https://developer.baidu.com/">https://developer.baidu.com/</a></p>
+<p><a href="https://s2.loli.net/2023/05/29/kQYD91zAxcvtmg4.png"><img src="https://s2.loli.net/2023/05/29/kQYD91zAxcvtmg4.png" alt="image-20230529104053413"></a></p>
+<p><a href="https://s2.loli.net/2023/05/29/rSTMu8WsOoCjIeF.png"><img src="https://s2.loli.net/2023/05/29/rSTMu8WsOoCjIeF.png" alt="image-20230529104133901"></a></p>
+<p><a href="https://s2.loli.net/2023/05/29/DC7TJaRMusQyOoL.png"><img src="https://s2.loli.net/2023/05/29/DC7TJaRMusQyOoL.png" alt="image-20230529103851456"></a></p>
+<p>2.2在项目根路径下的chat.py文件中配置ChatGpt Api</p>
+<p><a href="https://s2.loli.net/2023/05/29/4ReELsNWzrBAmPo.png"><img src="https://s2.loli.net/2023/05/29/4ReELsNWzrBAmPo.png" alt="image-20230529103442892"></a></p>
+<h3 id="3-部署"><a href="#3-部署" class="headerlink" title="3.部署"></a>3.部署</h3><p>在克隆的项目根路径执行命令</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">docker run -d \</span><br><span class="line">    -v /geren/chat-meow:/chat \</span><br><span class="line">    -v /dev/snd:/dev/snd \</span><br><span class="line">    --privileged \</span><br><span class="line">    -e PULSE_SERVER=unix:/run/pulse/native \</span><br><span class="line">    -e PULSE_COOKIE=/run/pulse/cookie \</span><br><span class="line">    -e PULSE_SINK=alsa_output.usb-Device-1c4f_2072-00.analog-stereo \</span><br><span class="line">    -e PULSE_SOURCE=alsa_input.usb-Device-1c4f_2072-00.analog-stereo \</span><br><span class="line">    -e ALSA_CARD=1 \</span><br><span class="line">    kjqaq/chatmeow</span><br></pre></td></tr></table></figure>
 
-<p><a href="https://s2.loli.net/2023/05/29/3NFq7c1fJe4gPOB.png"><img src="https://s2.loli.net/2023/05/29/3NFq7c1fJe4gPOB.png" alt="image-20230529003132714"></a></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Ctrl+c退出录音</span><br></pre></td></tr></table></figure>
-
-<h3 id="5-播放录音"><a href="#5-播放录音" class="headerlink" title="5.播放录音"></a>5.播放录音</h3><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">mplayer recording.wav </span><br></pre></td></tr></table></figure>
-
-<p><a href="https://s2.loli.net/2023/05/29/AEWr4ow6h9p21xK.png"><img src="https://s2.loli.net/2023/05/29/AEWr4ow6h9p21xK.png" alt="image-20230529003229505"></a></p>
+<p><a href="https://s2.loli.net/2023/05/29/RGUuLH4zhqPAk8Y.png"><img src="https://s2.loli.net/2023/05/29/RGUuLH4zhqPAk8Y.png" alt="image-20230529105029863"></a></p>
+<p><a href="https://s2.loli.net/2023/05/29/FAzD1G9njYpKM23.png"><img src="https://s2.loli.net/2023/05/29/FAzD1G9njYpKM23.png" alt="image-20230529105120366"></a></p>
+<h3 id="4-和ChatGpt智能语音对话聊天"><a href="#4-和ChatGpt智能语音对话聊天" class="headerlink" title="4.和ChatGpt智能语音对话聊天"></a>4.和ChatGpt智能语音对话聊天</h3><p><a href="https://s2.loli.net/2023/05/29/PKFHELY29b6DiuG.png"><img src="https://s2.loli.net/2023/05/29/PKFHELY29b6DiuG.png" alt="image-20230529105217143"></a></p>
+<p><a href="https://s2.loli.net/2023/05/29/EFqXB6SkYIf7o5O.png"><img src="https://s2.loli.net/2023/05/29/EFqXB6SkYIf7o5O.png" alt="image-20230529105232081"></a></p>
+<p><a href="https://s2.loli.net/2023/05/29/osTFBq5d1A7LJ2Y.png"><img src="https://s2.loli.net/2023/05/29/osTFBq5d1A7LJ2Y.png" alt="image-20230529105257951"></a></p>
+<p>项目原作者:<a href="https://github.com/MeowKJ/chat-meow">MeowKJ&#x2F;chat-meow (github.com)</a></p>
 ]]></content>
   </entry>
   <entry>
     <title>linux替换掉rm命令防止误删系统</title>
-    <url>/2023/05/28/suishen_wifi_md/linux%E6%9B%BF%E6%8D%A2%E6%8E%89rm%E5%91%BD%E4%BB%A4%E9%98%B2%E6%AD%A2%E8%AF%AF%E5%88%A0%E7%B3%BB%E7%BB%9F/</url>
+    <url>/posts/2a961a2d.html</url>
     <content><![CDATA[<p>原文作者博客:<a href="https://blog.csdn.net/VIP_WangSai/article/details/87623467">https://blog.csdn.net/VIP_WangSai&#x2F;article&#x2F;details&#x2F;87623467</a></p>
 <p>版权声明：本文为博主原创文章，遵循 <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC 4.0 BY-SA</a> 版权协议，转载请附上原文出处链接和本声明。</p>
 <p>很多人都使用过这个命令 “rm -rf” 命令 ，一不小心容易出现误删除的情况。</p>
@@ -355,8 +325,24 @@
 ]]></content>
   </entry>
   <entry>
+    <title>debian安装包安装python</title>
+    <url>/posts/81b5fa38.html</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>系统环境：<a href="https://so.csdn.net/so/search?q=Debian&spm=1001.2101.3001.7020">Debian</a> Linux 10</p>
+<p>计划安装：Python 3.10.3</p>
+<h2 id="一、下载python源码"><a href="#一、下载python源码" class="headerlink" title="一、下载python源码"></a>一、下载python<a href="https://so.csdn.net/so/search?q=%E6%BA%90%E7%A0%81&spm=1001.2101.3001.7020">源码</a></h2><p>在Python官网上下载源码</p>
+<p><a href="https://www.python.org/downloads/source/[%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD](https://www.python.org/downloads/source/)%E3%80%82">https://www.python.org/downloads/source/<a href="https://www.python.org/downloads/source/">源码下载</a>。</a></p>
+<h2 id="二、安装步骤"><a href="#二、安装步骤" class="headerlink" title="二、安装步骤"></a>二、安装步骤</h2><p>主要参照源码包里面的说明，网上也有教程。</p>
+<p>1.源码解压缩，进入文件夹，在终端中打开</p>
+<h2 id="2-安装"><a href="#2-安装" class="headerlink" title="2.安装"></a>2.安装</h2><p>代码如下：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">./configure</span><br><span class="line">make</span><br><span class="line">make test</span><br><span class="line">sudo make install</span><br></pre></td></tr></table></figure>
+
+<h2 id="3-调试"><a href="#3-调试" class="headerlink" title="3.调试"></a>3.调试</h2><p>运行完以上代码按说应该是安装完了，但是不一定能用，需要测试一下。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">python3 --version</span><br></pre></td></tr></table></figure>
+]]></content>
+  </entry>
+  <entry>
     <title>使用5块钱的随身wifi搭建ChatGPT Web客户端</title>
-    <url>/2023/05/15/suishen_wifi_md/%E4%BD%BF%E7%94%A85%E5%9D%97%E9%92%B1%E7%9A%84%E9%9A%8F%E8%BA%ABwifi%E6%90%AD%E5%BB%BAChatGpt-Web%E5%AE%A2%E6%88%B7%E7%AB%AF/</url>
+    <url>/posts/4e37aed8.html</url>
     <content><![CDATA[<p><a href="https://s2.loli.net/2023/05/28/7HSNv1caYKntLBI.png"><img src="https://s2.loli.net/2023/05/28/7HSNv1caYKntLBI.png" alt="image-20230515213540340"></a></p>
 <h4 id="1-先有一个随身Wifi-然后刷入Debian系统"><a href="#1-先有一个随身Wifi-然后刷入Debian系统" class="headerlink" title="1.先有一个随身Wifi,然后刷入Debian系统"></a>1.先有一个随身Wifi,然后刷入Debian系统</h4><p>刷入教程请访问酷安,随身wifi话题</p>
 <p><a href="https://s2.loli.net/2023/05/28/Qr4DkyMKLlcigUd.png"><img src="https://s2.loli.net/2023/05/28/Qr4DkyMKLlcigUd.png" alt="image-20230515204444379"></a></p>
@@ -404,7 +390,7 @@
   </entry>
   <entry>
     <title>固件刚安装好的时候如果没有modem mmcli -m 0是空</title>
-    <url>/2023/05/28/suishen_wifi_md/%E5%9B%BA%E4%BB%B6%E5%88%9A%E5%AE%89%E8%A3%85%E5%A5%BD%E7%9A%84%E6%97%B6%E5%80%99%E5%A6%82%E6%9E%9C%E6%B2%A1%E6%9C%89modem-mmcli-m-0%E6%98%AF%E7%A9%BA/</url>
+    <url>/posts/46f83209.html</url>
     <content><![CDATA[<p><a href="https://s2.loli.net/2023/05/28/VOzoBajqDnyS6Cx.png"><img src="https://s2.loli.net/2023/05/28/VOzoBajqDnyS6Cx.png" alt="image-20230524034605845"></a></p>
 <p>固件刚安装好的时候如果没有modem mmcli -m 0是空 的时候,记得更新下固件 apt-get update!!!!!!!!!!!!</p>
 <p>固件刚安装好的时候如果没有modem mmcli -m 0是空 的时候,记得更新下固件 apt-get update!!!!!!!!!!!!</p>
@@ -421,8 +407,37 @@
 ]]></content>
   </entry>
   <entry>
+    <title>ChatGPT随身WiFi智能音箱之准备材料</title>
+    <url>/posts/2e7816ba.html</url>
+    <content><![CDATA[<h3 id="1-410的随身wifi"><a href="#1-410的随身wifi" class="headerlink" title="1.410的随身wifi"></a>1.410的随身wifi</h3><p>我用的UFI001c</p>
+<p><a href="https://s2.loli.net/2023/05/29/yPAvL8rz2fKpFgQ.png"><img src="https://s2.loli.net/2023/05/29/yPAvL8rz2fKpFgQ.png" alt="image-20230529010358660"></a></p>
+<h3 id="2-debian固件"><a href="#2-debian固件" class="headerlink" title="2.debian固件"></a>2.debian固件</h3><p><a href="https://www.coolapk.com/feed/37616461?shareKey=MmMzNDM0MTU3ZTU5NjQ3MzhhOTA~&shareUid=3727115&shareFrom=com.coolapk.market_13.0.1">https://www.coolapk.com/feed/37616461?shareKey=MmMzNDM0MTU3ZTU5NjQ3MzhhOTA~&amp;shareUid&#x3D;3727115&amp;shareFrom&#x3D;com.coolapk.market_13.0.1</a></p>
+<h3 id="3-拓展坞"><a href="#3-拓展坞" class="headerlink" title="3.拓展坞"></a>3.拓展坞</h3><p><a href="https://s2.loli.net/2023/05/29/NKjDiOvAsLqlIZY.png"><img src="https://s2.loli.net/2023/05/29/NKjDiOvAsLqlIZY.png" alt="image-20230529010941289"></a></p>
+<h3 id="4-笔记本usb声卡"><a href="#4-笔记本usb声卡" class="headerlink" title="4.笔记本usb声卡"></a>4.笔记本usb声卡</h3><p><a href="https://s2.loli.net/2023/05/29/bKX7OYnZHNmyzkQ.png"><img src="https://s2.loli.net/2023/05/29/bKX7OYnZHNmyzkQ.png" alt="image-20230529010142003"></a></p>
+<h3 id="5-usb免驱摄像头-带麦克风"><a href="#5-usb免驱摄像头-带麦克风" class="headerlink" title="5.usb免驱摄像头(带麦克风)"></a>5.usb免驱摄像头(带麦克风)</h3><p><a href="https://s2.loli.net/2023/05/29/GZ3mMVHJSgnhDo9.png"><img src="https://s2.loli.net/2023/05/29/GZ3mMVHJSgnhDo9.png" alt="image-20230529010246278"></a></p>
+<h3 id="6-小音箱-随便选应该都行"><a href="#6-小音箱-随便选应该都行" class="headerlink" title="6.小音箱,随便选应该都行"></a>6.小音箱,随便选应该都行</h3><p><a href="https://s2.loli.net/2023/05/29/YnTXbMKzNkyR3sW.png"><img src="https://s2.loli.net/2023/05/29/YnTXbMKzNkyR3sW.png" alt="image-20230529010304213"></a></p>
+<h3 id="7-总共花费31-4"><a href="#7-总共花费31-4" class="headerlink" title="7.总共花费31.4"></a>7.总共花费31.4</h3><p>拓展坞自己打的,其他电子设备都是买的</p>
+<p><a href="https://s2.loli.net/2023/05/29/OWjPzeducA492Ry.png"><img src="https://s2.loli.net/2023/05/29/OWjPzeducA492Ry.png"></a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>解决UFI003刷Debian没网问题,同时支持ipv6,其他系统自测</title>
+    <url>/posts/63c52686.html</url>
+    <content><![CDATA[<p><a href="https://s2.loli.net/2023/05/28/RLaO2Vn4Yi7eUTz.png"><img src="https://s2.loli.net/2023/05/28/RLaO2Vn4Yi7eUTz.png" alt="image-20230522113640295"></a></p>
+<h2 id="解决UFI003刷Debian没网问题-同时支持ipv6-其他系统自测"><a href="#解决UFI003刷Debian没网问题-同时支持ipv6-其他系统自测" class="headerlink" title="解决UFI003刷Debian没网问题,同时支持ipv6,其他系统自测"></a>解决UFI003刷Debian没网问题,同时支持ipv6,其他系统自测</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">刷了UFI003的超频版的Debian插上手机卡不识别,找问题,找了好久找不到,替换了几个文件解决了</span><br></pre></td></tr></table></figure>
+
+<h4 id="1-将这几个文件替换到你刷机的超频版包里"><a href="#1-将这几个文件替换到你刷机的超频版包里" class="headerlink" title="1.将这几个文件替换到你刷机的超频版包里"></a>1.将这几个文件替换到你刷机的超频版包里</h4><p>包地址:<a href="https://wwvw.lanzouy.com/iPghD0ww53ib">https://wwvw.lanzouy.com/iPghD0ww53ib</a> 密码:bbps</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fsc.bin</span><br><span class="line">fsg.bin</span><br><span class="line">modemst1.bin</span><br><span class="line">modemst2.bin</span><br></pre></td></tr></table></figure>
+
+<p><a href="https://s2.loli.net/2023/05/28/kQoH9m1bfxraJpV.png"><img src="https://s2.loli.net/2023/05/28/kQoH9m1bfxraJpV.png" alt="image-20230522082933596"></a></p>
+<h4 id="2-使用进行正常刷机-然后就有网了"><a href="#2-使用进行正常刷机-然后就有网了" class="headerlink" title="2.使用&lt;一键刷入工具.bat&gt;进行正常刷机,然后就有网了"></a>2.使用&lt;一键刷入工具.bat&gt;进行正常刷机,然后就有网了</h4><p><a href="https://s2.loli.net/2023/05/28/OXKU1IWzSGe4nx9.png"><img src="https://s2.loli.net/2023/05/28/OXKU1IWzSGe4nx9.png" alt="image-20230522082619875"></a></p>
+<p><a href="https://s2.loli.net/2023/05/28/DASdHUINL4uPC7v.png"><img src="https://s2.loli.net/2023/05/28/DASdHUINL4uPC7v.png" alt="image-20230522082710722"></a></p>
+<p><a href="https://s2.loli.net/2023/05/28/ypA5rRtT6Oua4PU.png"><img src="https://s2.loli.net/2023/05/28/ypA5rRtT6Oua4PU.png" alt="image-20230522082847169"></a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>新版随身Wifi 制作ChatGPT语音助手</title>
-    <url>/2023/06/02/suishen_wifi_md/%E6%96%B0%E7%89%88%E9%9A%8F%E8%BA%ABWifi-%E5%88%B6%E4%BD%9CChatGpt%E8%AF%AD%E9%9F%B3%E5%8A%A9%E6%89%8B/</url>
+    <url>/posts/1d4f6658.html</url>
     <content><![CDATA[<p><a href="https://s2.loli.net/2023/06/02/CRax1UwiukAtJY7.png"><img src="https://s2.loli.net/2023/06/02/CRax1UwiukAtJY7.png" alt="image-20230602201623896"></a></p>
 <h2 id="0-效果展示"><a href="#0-效果展示" class="headerlink" title="0.效果展示"></a>0.效果展示</h2><h2 id="1-准备硬件材料"><a href="#1-准备硬件材料" class="headerlink" title="1.准备硬件材料"></a>1.准备硬件材料</h2><p>看下边地址:</p>
 <p><a href="https://jiuhuai.top/articke/chatgpt-suishenwifi-yinxiang0.html">https://jiuhuai.top/articke/chatgpt-suishenwifi-yinxiang0.html</a></p>
@@ -468,23 +483,8 @@
 ]]></content>
   </entry>
   <entry>
-    <title>解决UFI003刷Debian没网问题,同时支持ipv6,其他系统自测</title>
-    <url>/2023/05/28/suishen_wifi_md/%E8%A7%A3%E5%86%B3UFI003%E5%88%B7Debian%E6%B2%A1%E7%BD%91%E9%97%AE%E9%A2%98,%E5%90%8C%E6%97%B6%E6%94%AF%E6%8C%81ipv6,%E5%85%B6%E4%BB%96%E7%B3%BB%E7%BB%9F%E8%87%AA%E6%B5%8B/</url>
-    <content><![CDATA[<p><a href="https://s2.loli.net/2023/05/28/RLaO2Vn4Yi7eUTz.png"><img src="https://s2.loli.net/2023/05/28/RLaO2Vn4Yi7eUTz.png" alt="image-20230522113640295"></a></p>
-<h2 id="解决UFI003刷Debian没网问题-同时支持ipv6-其他系统自测"><a href="#解决UFI003刷Debian没网问题-同时支持ipv6-其他系统自测" class="headerlink" title="解决UFI003刷Debian没网问题,同时支持ipv6,其他系统自测"></a>解决UFI003刷Debian没网问题,同时支持ipv6,其他系统自测</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">刷了UFI003的超频版的Debian插上手机卡不识别,找问题,找了好久找不到,替换了几个文件解决了</span><br></pre></td></tr></table></figure>
-
-<h4 id="1-将这几个文件替换到你刷机的超频版包里"><a href="#1-将这几个文件替换到你刷机的超频版包里" class="headerlink" title="1.将这几个文件替换到你刷机的超频版包里"></a>1.将这几个文件替换到你刷机的超频版包里</h4><p>包地址:<a href="https://wwvw.lanzouy.com/iPghD0ww53ib">https://wwvw.lanzouy.com/iPghD0ww53ib</a> 密码:bbps</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">fsc.bin</span><br><span class="line">fsg.bin</span><br><span class="line">modemst1.bin</span><br><span class="line">modemst2.bin</span><br></pre></td></tr></table></figure>
-
-<p><a href="https://s2.loli.net/2023/05/28/kQoH9m1bfxraJpV.png"><img src="https://s2.loli.net/2023/05/28/kQoH9m1bfxraJpV.png" alt="image-20230522082933596"></a></p>
-<h4 id="2-使用进行正常刷机-然后就有网了"><a href="#2-使用进行正常刷机-然后就有网了" class="headerlink" title="2.使用&lt;一键刷入工具.bat&gt;进行正常刷机,然后就有网了"></a>2.使用&lt;一键刷入工具.bat&gt;进行正常刷机,然后就有网了</h4><p><a href="https://s2.loli.net/2023/05/28/OXKU1IWzSGe4nx9.png"><img src="https://s2.loli.net/2023/05/28/OXKU1IWzSGe4nx9.png" alt="image-20230522082619875"></a></p>
-<p><a href="https://s2.loli.net/2023/05/28/DASdHUINL4uPC7v.png"><img src="https://s2.loli.net/2023/05/28/DASdHUINL4uPC7v.png" alt="image-20230522082710722"></a></p>
-<p><a href="https://s2.loli.net/2023/05/28/ypA5rRtT6Oua4PU.png"><img src="https://s2.loli.net/2023/05/28/ypA5rRtT6Oua4PU.png" alt="image-20230522082847169"></a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>随身Wifi通过蓝牙连接其他设备</title>
-    <url>/2023/05/28/suishen_wifi_md/%E9%9A%8F%E8%BA%ABWifi%E9%80%9A%E8%BF%87%E8%93%9D%E7%89%99%E8%BF%9E%E6%8E%A5%E5%85%B6%E4%BB%96%E8%AE%BE%E5%A4%87/</url>
+    <url>/posts/5eb503e6.html</url>
     <content><![CDATA[<p><a href="https://s2.loli.net/2023/05/28/4Uy3FctL65Cq2Mz.png"><img src="https://s2.loli.net/2023/05/28/4Uy3FctL65Cq2Mz.png" alt="image-20230517003905471"></a></p>
 <h4 id="1-随身wifi蓝牙相关的内容在话题里不多-找了下-按着试了下不成功-网上也没找到这方面的内容-就换了下思路搜了下树莓派连接蓝牙-然后打开新世界的大门-测试成功了"><a href="#1-随身wifi蓝牙相关的内容在话题里不多-找了下-按着试了下不成功-网上也没找到这方面的内容-就换了下思路搜了下树莓派连接蓝牙-然后打开新世界的大门-测试成功了" class="headerlink" title="1.随身wifi蓝牙相关的内容在话题里不多,找了下.按着试了下不成功,网上也没找到这方面的内容,就换了下思路搜了下树莓派连接蓝牙,然后打开新世界的大门,测试成功了."></a>1.随身wifi蓝牙相关的内容在话题里不多,找了下.按着试了下不成功,网上也没找到这方面的内容,就换了下思路搜了下树莓派连接蓝牙,然后打开新世界的大门,测试成功了.</h4><h4 id="2-安装相关软件"><a href="#2-安装相关软件" class="headerlink" title="2.安装相关软件"></a>2.安装相关软件</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">root@xinxun1-debian:~# apt-get -y install bluetooth bluez bluez-tools rfkill</span><br></pre></td></tr></table></figure>
 
@@ -560,7 +560,7 @@
   </entry>
   <entry>
     <title>随身wifi Debian系统获取ipv6地址并发送邮件通知</title>
-    <url>/2023/05/19/suishen_wifi_md/%E9%9A%8F%E8%BA%ABwifi-Debian%E7%B3%BB%E7%BB%9F%E8%8E%B7%E5%8F%96ipv6%E5%9C%B0%E5%9D%80%E5%B9%B6%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6%E9%80%9A%E7%9F%A5/</url>
+    <url>/posts/edeac47.html</url>
     <content><![CDATA[<h3 id="随身wifi-Debian系统获取ipv6地址并发送邮件通知"><a href="#随身wifi-Debian系统获取ipv6地址并发送邮件通知" class="headerlink" title="随身wifi Debian系统获取ipv6地址并发送邮件通知"></a>随身wifi Debian系统获取ipv6地址并发送邮件通知</h3><p><a href="https://s2.loli.net/2023/05/28/hXJ6k1z5ntL4AUm.png"><img src="https://s2.loli.net/2023/05/28/hXJ6k1z5ntL4AUm.png" alt="image-20230519084009338"></a></p>
 <p>项目地址:</p>
 <p><a href="https://github.com/conlindd/suishenwifi_ipv6_sendemail">https://github.com/conlindd/suishenwifi_ipv6_sendemail</a></p>
@@ -584,50 +584,52 @@
 ]]></content>
   </entry>
   <entry>
-    <title>随身wifi使用Debian系统通过命令行发送、接收短信</title>
-    <url>/2023/05/18/suishen_wifi_md/%E9%9A%8F%E8%BA%ABwifi%E4%BD%BF%E7%94%A8Debian%E7%B3%BB%E7%BB%9F%E9%80%9A%E8%BF%87%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%91%E9%80%81%E3%80%81%E6%8E%A5%E6%94%B6%E7%9F%AD%E4%BF%A1/</url>
-    <content><![CDATA[<p><a href="https://s2.loli.net/2023/05/28/zVWYKcbOCTGsn1M.png"><img src="https://s2.loli.net/2023/05/28/zVWYKcbOCTGsn1M.png" alt="image-20230518185649875"></a></p>
-<h3 id="随身wifi使用Debian系统通过命令行发送、接收短信"><a href="#随身wifi使用Debian系统通过命令行发送、接收短信" class="headerlink" title="随身wifi使用Debian系统通过命令行发送、接收短信"></a>随身wifi使用Debian系统通过命令行发送、接收短信</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">固件:</span><br><span class="line"></span><br><span class="line">https://www.123pan.com/s/gYcrVv-Nv8Xv</span><br><span class="line"></span><br><span class="line">详见:https://www.coolapk.com/feed/37616461?shareKey=Y2I0MmE5OTBjYWNlNjQ2NTFkNTY~&amp;shareUid=3727115&amp;shareFrom=com.coolapk.market_13.0.1</span><br><span class="line"></span><br><span class="line">随身wifi版本:</span><br><span class="line"></span><br><span class="line">UFI001c_mb_v01</span><br></pre></td></tr></table></figure>
+    <title>随身wifi的debian系统下SMTP邮箱收取邮件后自动转发</title>
+    <url>/posts/44426d4b.html</url>
+    <content><![CDATA[<p>README.md</p>
+<h4 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h4><p>代码来源自GITEE@刘骢和GITHUB@TeddyNight</p>
+<h3 id="观前需知"><a href="#观前需知" class="headerlink" title="观前需知"></a>观前需知</h3><p>0.请确认你的设备能上网。</p>
+<p>1.在观看本教程前请拥有一定Linux操作基础，本人不回答关于任何linux操作问题。例如新建目录，文件，移动，剪切是什么命令，不知道请打开菜鸟教程进linux板块学习！</p>
+<p>2.请先确保你的硬件支持短信收取（在安卓系统下）,应该不支持电信的CDMA，只支持联通移动的LTE通信，或者可以先用刘骢的脚本测试下。</p>
+<p>3.除此之外请预先换源，防止apt下载卡住，不知道怎么换多搜索学习。</p>
+<p>本文用到的文件：install.sh，smsforwarder，smsforwarder.service</p>
+<h3 id="大致流程，详情请见酷安"><a href="#大致流程，详情请见酷安" class="headerlink" title="大致流程，详情请见酷安"></a>大致流程，详情请见酷安</h3><p>1.部署环境</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">apt-get install python3 python3-requests python3-gi python3-dbus</span><br></pre></td></tr></table></figure>
 
-<h4 id="0-调制解调器使用文档"><a href="#0-调制解调器使用文档" class="headerlink" title="0.调制解调器使用文档"></a>0.调制解调器使用文档</h4><p><a href="https://www.mankier.com/1/mmcli">https://www.mankier.com/1/mmcli</a></p>
-<h4 id="1-随身wifi发送短信"><a href="#1-随身wifi发送短信" class="headerlink" title="1.随身wifi发送短信"></a>1.随身wifi发送短信</h4><p>1.创建内容为hello word的短信 收件人+123456789</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">root@openstick:/home/user# sudo mmcli -m 0 --messaging-create-sms=&quot;text=&#x27;Hello world&#x27;,number=&#x27;+1234567890&#x27;&quot;</span><br><span class="line">Successfully created new SMS: /org/freedesktop/ModemManager1/SMS/0</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>2.新建目录及文件，并修改成你的信息</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">touch install.sh,smsforwarder,smsforwarder.service</span><br></pre></td></tr></table></figure>
 
-<p>2.存储短信sm</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">root@openstick:/home/user# sudo mmcli -s 1 --store-in-storage=&quot;sm&quot;</span><br><span class="line">successfully stored the SMS</span><br></pre></td></tr></table></figure>
+<p>可以用nano编辑复制，或下载本仓库的代码再进去修改</p>
+<p>3.赋权</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">chmod +777 /etc/systemd/system/smsforwarder.service</span><br></pre></td></tr></table></figure>
 
-<p>3.读取短信1的内容</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">root@openstick:/home/user# sudo mmcli -s 1</span><br><span class="line">  -----------------------------</span><br><span class="line">  General    |            path: /org/freedesktop/ModemManager1/SMS/1</span><br><span class="line">  -----------------------------</span><br><span class="line">  Content    |          number: +1234567890</span><br><span class="line">             |            text: Hello world</span><br><span class="line">  -----------------------------</span><br><span class="line">  Properties |        pdu type: submit</span><br><span class="line">             |           state: stored</span><br><span class="line">             |         storage: sm</span><br><span class="line">             | delivery report: not requested</span><br><span class="line">root@openstick:/home/user# </span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">chmod 777 /usr/local/bin/smsforwardr</span><br></pre></td></tr></table></figure>
 
-<p>4.列出所有短信</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">root@openstick:/home/user# sudo mmcli -m 0 --messaging-status</span><br><span class="line">  -------------------------------</span><br><span class="line">  Messaging | supported storages: sm, me</span><br><span class="line">            |   default storages: me</span><br><span class="line">root@openstick:/home/user# </span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>4.启动服务</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">systemctl start smsforwarder</span><br></pre></td></tr></table></figure>
 
-<p>5.建立短信 text&#x3D;’文本’,number&#x3D;’+86手机号’</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">root@openstick:/home/user# sudo mmcli -m 0 --messaging-create-sms=&quot;text=&#x27;测试使用随身wifilinux发送短信&#x27;,number=&#x27;+8615xxxxxxxx24&#x27;&quot;</span><br><span class="line">Successfully created new SMS: /org/freedesktop/ModemManager1/SMS/0</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<p>6.发送短信到手机 0表示 sms&#x2F;0的0</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">root@openstick:/home/user# sudo mmcli -s 0 --send</span><br><span class="line">successfully sent the SMS</span><br></pre></td></tr></table></figure>
-
-<p>发送成功后,手机收到短信</p>
-<p><a href="https://s2.loli.net/2023/05/28/sotlF2v5qHDyNSU.png"><img src="https://s2.loli.net/2023/05/28/sotlF2v5qHDyNSU.png" alt="image-20230518185043728"></a></p>
-<p>7.列出发送的短信</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">root@openstick:/home/user# sudo mmcli -m 0 --messaging-list-sms</span><br><span class="line">    /org/freedesktop/ModemManager1/SMS/0 (sent)</span><br></pre></td></tr></table></figure>
-
-<p>8.获取单个短信的内容</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line">root@openstick:/home/user#  sudo mmcli -s 0 /org/freedesktop/ModemManager1/SMS/0</span><br><span class="line">  -------------------------------</span><br><span class="line">  General    |              path: /org/freedesktop/ModemManager1/SMS/0</span><br><span class="line">  -------------------------------</span><br><span class="line">  Content    |            number: +8615xxxxxxxx24</span><br><span class="line">             |              text: 测试使用随身wifilinux发送短信</span><br><span class="line">  -------------------------------</span><br><span class="line">  Properties |          pdu type: submit</span><br><span class="line">             |             state: sent</span><br><span class="line">             |   delivery report: not requested</span><br><span class="line">             | message reference: 5</span><br></pre></td></tr></table></figure>
-
-<p>手机向随机wifi上的这个号码发送短信</p>
-<p><a href="https://s2.loli.net/2023/05/28/lB2ukhEwWoqFD9J.png"><img src="https://s2.loli.net/2023/05/28/lB2ukhEwWoqFD9J.png" alt="image-20230518185220647"></a></p>
-<p>9.获取所有短信列表</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line">root@openstick:/home/user# sudo mmcli -m 0 --messaging-list-sms</span><br><span class="line">    /org/freedesktop/ModemManager1/SMS/2 (received)  </span><br><span class="line">    /org/freedesktop/ModemManager1/SMS/1 (stored)</span><br><span class="line">    /org/freedesktop/ModemManager1/SMS/0 (sent)</span><br><span class="line"> #---received 收到的</span><br><span class="line"> #---stored存储的</span><br><span class="line"> #---sent 发送的</span><br></pre></td></tr></table></figure>
-
-<p>10.获取接收到的短信的内容</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line">root@openstick:/home/user# sudo mmcli -s 2 /org/freedesktop/ModemManager1/SMS/2</span><br><span class="line">  -----------------------</span><br><span class="line">  General    |      path: /org/freedesktop/ModemManager1/SMS/2</span><br><span class="line">  -----------------------</span><br><span class="line">  Content    |    number: +8615xxxxxxxx24</span><br><span class="line">             |      text: 测试linux接收电短信</span><br><span class="line">  -----------------------</span><br><span class="line">  Properties |  pdu type: deliver</span><br><span class="line">             |     state: received</span><br><span class="line">             | timestamp: 2023-05-18T13:16:34+08:00</span><br><span class="line">root@openstick:/home/user# </span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<h4 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h4><ol>
+<li><p>修改SMTP信息请到smsforwarder文件</p>
+<p>my_sender对应你开启了SMTP的发件邮箱</p>
+<p>my_user对应你收件邮箱</p>
+</li>
+</ol>
+<p>————分界线————</p>
+<p>启动smsforwarder</p>
+<p>命令<code>systemctl start smsforwarder</code></p>
+<p>等待几秒，查看状态</p>
+<p>命令<code>systemctl status smsforwarder</code></p>
+<p>看看状态是不是绿色字体的active(running)，如果是黄色或红色字体说明没有开始成功，可能是上面没给到权限造成的。</p>
+<p><a href="https://s2.loli.net/2023/05/28/4yrg8FWh2IvUY1K.png"><img src="https://s2.loli.net/2023/05/28/4yrg8FWh2IvUY1K.png"></a>)</p>
+<p>可以先用命令python3 smsforwarder将py脚本在终端挂起，发短信测试下会不会转发。</p>
+<p>没有报错能正常转发。</p>
+<p>那么恭喜你，可以把服务加进自启了！</p>
+<p><code>systemctl enable smsforwarder</code></p>
 ]]></content>
   </entry>
   <entry>
     <title>随身wifi通过蓝牙连接蓝牙耳机并播放音乐</title>
-    <url>/2023/05/28/suishen_wifi_md/%E9%9A%8F%E8%BA%ABwifi%E9%80%9A%E8%BF%87%E8%93%9D%E7%89%99%E8%BF%9E%E6%8E%A5%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA%E5%B9%B6%E6%92%AD%E6%94%BE%E9%9F%B3%E4%B9%90/</url>
+    <url>/posts/32c5a9d1.html</url>
     <content><![CDATA[<p><a href="https://s2.loli.net/2023/05/28/MzyCYlUEW6fOLx1.png"><img src="https://s2.loli.net/2023/05/28/MzyCYlUEW6fOLx1.png" alt="image-20230518025820588"></a></p>
 <h3 id="随身wifi通过蓝牙连接蓝牙耳机并播放音乐"><a href="#随身wifi通过蓝牙连接蓝牙耳机并播放音乐" class="headerlink" title="随身wifi通过蓝牙连接蓝牙耳机并播放音乐"></a>随身wifi通过蓝牙连接蓝牙耳机并播放音乐</h3><h4 id="1-使用的固件和随身wifi版本"><a href="#1-使用的固件和随身wifi版本" class="headerlink" title="1.使用的固件和随身wifi版本"></a>1.使用的固件和随身wifi版本</h4><p>固件:</p>
 <p><a href="https://www.123pan.com/s/gYcrVv-Nv8Xv">https://www.123pan.com/s/gYcrVv-Nv8Xv</a></p>
@@ -689,47 +691,45 @@
 ]]></content>
   </entry>
   <entry>
-    <title>随身wifi的debian系统下SMTP邮箱收取邮件后自动转发</title>
-    <url>/2023/05/15/suishen_wifi_md/%E9%9A%8F%E8%BA%ABwifi%E7%9A%84debian%E7%B3%BB%E7%BB%9F%E4%B8%8BSMTP%E9%82%AE%E7%AE%B1%E6%94%B6%E5%8F%96%E9%82%AE%E4%BB%B6%E5%90%8E%E8%87%AA%E5%8A%A8%E8%BD%AC%E5%8F%91/</url>
-    <content><![CDATA[<p>README.md</p>
-<h4 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h4><p>代码来源自GITEE@刘骢和GITHUB@TeddyNight</p>
-<h3 id="观前需知"><a href="#观前需知" class="headerlink" title="观前需知"></a>观前需知</h3><p>0.请确认你的设备能上网。</p>
-<p>1.在观看本教程前请拥有一定Linux操作基础，本人不回答关于任何linux操作问题。例如新建目录，文件，移动，剪切是什么命令，不知道请打开菜鸟教程进linux板块学习！</p>
-<p>2.请先确保你的硬件支持短信收取（在安卓系统下）,应该不支持电信的CDMA，只支持联通移动的LTE通信，或者可以先用刘骢的脚本测试下。</p>
-<p>3.除此之外请预先换源，防止apt下载卡住，不知道怎么换多搜索学习。</p>
-<p>本文用到的文件：install.sh，smsforwarder，smsforwarder.service</p>
-<h3 id="大致流程，详情请见酷安"><a href="#大致流程，详情请见酷安" class="headerlink" title="大致流程，详情请见酷安"></a>大致流程，详情请见酷安</h3><p>1.部署环境</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">apt-get install python3 python3-requests python3-gi python3-dbus</span><br></pre></td></tr></table></figure>
+    <title>随身wifi使用Debian系统通过命令行发送、接收短信</title>
+    <url>/posts/5cd22e31.html</url>
+    <content><![CDATA[<p><a href="https://s2.loli.net/2023/05/28/zVWYKcbOCTGsn1M.png"><img src="https://s2.loli.net/2023/05/28/zVWYKcbOCTGsn1M.png" alt="image-20230518185649875"></a></p>
+<h3 id="随身wifi使用Debian系统通过命令行发送、接收短信"><a href="#随身wifi使用Debian系统通过命令行发送、接收短信" class="headerlink" title="随身wifi使用Debian系统通过命令行发送、接收短信"></a>随身wifi使用Debian系统通过命令行发送、接收短信</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">固件:</span><br><span class="line"></span><br><span class="line">https://www.123pan.com/s/gYcrVv-Nv8Xv</span><br><span class="line"></span><br><span class="line">详见:https://www.coolapk.com/feed/37616461?shareKey=Y2I0MmE5OTBjYWNlNjQ2NTFkNTY~&amp;shareUid=3727115&amp;shareFrom=com.coolapk.market_13.0.1</span><br><span class="line"></span><br><span class="line">随身wifi版本:</span><br><span class="line"></span><br><span class="line">UFI001c_mb_v01</span><br></pre></td></tr></table></figure>
 
-<p>2.新建目录及文件，并修改成你的信息</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">touch install.sh,smsforwarder,smsforwarder.service</span><br></pre></td></tr></table></figure>
+<h4 id="0-调制解调器使用文档"><a href="#0-调制解调器使用文档" class="headerlink" title="0.调制解调器使用文档"></a>0.调制解调器使用文档</h4><p><a href="https://www.mankier.com/1/mmcli">https://www.mankier.com/1/mmcli</a></p>
+<h4 id="1-随身wifi发送短信"><a href="#1-随身wifi发送短信" class="headerlink" title="1.随身wifi发送短信"></a>1.随身wifi发送短信</h4><p>1.创建内容为hello word的短信 收件人+123456789</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">root@openstick:/home/user# sudo mmcli -m 0 --messaging-create-sms=&quot;text=&#x27;Hello world&#x27;,number=&#x27;+1234567890&#x27;&quot;</span><br><span class="line">Successfully created new SMS: /org/freedesktop/ModemManager1/SMS/0</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 
-<p>可以用nano编辑复制，或下载本仓库的代码再进去修改</p>
-<p>3.赋权</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">chmod +777 /etc/systemd/system/smsforwarder.service</span><br></pre></td></tr></table></figure>
+<p>2.存储短信sm</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">root@openstick:/home/user# sudo mmcli -s 1 --store-in-storage=&quot;sm&quot;</span><br><span class="line">successfully stored the SMS</span><br></pre></td></tr></table></figure>
 
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">chmod 777 /usr/local/bin/smsforwardr</span><br></pre></td></tr></table></figure>
+<p>3.读取短信1的内容</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">root@openstick:/home/user# sudo mmcli -s 1</span><br><span class="line">  -----------------------------</span><br><span class="line">  General    |            path: /org/freedesktop/ModemManager1/SMS/1</span><br><span class="line">  -----------------------------</span><br><span class="line">  Content    |          number: +1234567890</span><br><span class="line">             |            text: Hello world</span><br><span class="line">  -----------------------------</span><br><span class="line">  Properties |        pdu type: submit</span><br><span class="line">             |           state: stored</span><br><span class="line">             |         storage: sm</span><br><span class="line">             | delivery report: not requested</span><br><span class="line">root@openstick:/home/user# </span><br></pre></td></tr></table></figure>
 
-<p>4.启动服务</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">systemctl start smsforwarder</span><br></pre></td></tr></table></figure>
+<p>4.列出所有短信</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">root@openstick:/home/user# sudo mmcli -m 0 --messaging-status</span><br><span class="line">  -------------------------------</span><br><span class="line">  Messaging | supported storages: sm, me</span><br><span class="line">            |   default storages: me</span><br><span class="line">root@openstick:/home/user# </span><br><span class="line"></span><br></pre></td></tr></table></figure>
 
-<h4 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h4><ol>
-<li><p>修改SMTP信息请到smsforwarder文件</p>
-<p>my_sender对应你开启了SMTP的发件邮箱</p>
-<p>my_user对应你收件邮箱</p>
-</li>
-</ol>
-<p>————分界线————</p>
-<p>启动smsforwarder</p>
-<p>命令<code>systemctl start smsforwarder</code></p>
-<p>等待几秒，查看状态</p>
-<p>命令<code>systemctl status smsforwarder</code></p>
-<p>看看状态是不是绿色字体的active(running)，如果是黄色或红色字体说明没有开始成功，可能是上面没给到权限造成的。</p>
-<p><a href="https://s2.loli.net/2023/05/28/4yrg8FWh2IvUY1K.png"><img src="https://s2.loli.net/2023/05/28/4yrg8FWh2IvUY1K.png"></a>)</p>
-<p>可以先用命令python3 smsforwarder将py脚本在终端挂起，发短信测试下会不会转发。</p>
-<p>没有报错能正常转发。</p>
-<p>那么恭喜你，可以把服务加进自启了！</p>
-<p><code>systemctl enable smsforwarder</code></p>
+<p>5.建立短信 text&#x3D;’文本’,number&#x3D;’+86手机号’</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">root@openstick:/home/user# sudo mmcli -m 0 --messaging-create-sms=&quot;text=&#x27;测试使用随身wifilinux发送短信&#x27;,number=&#x27;+8615xxxxxxxx24&#x27;&quot;</span><br><span class="line">Successfully created new SMS: /org/freedesktop/ModemManager1/SMS/0</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p>6.发送短信到手机 0表示 sms&#x2F;0的0</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">root@openstick:/home/user# sudo mmcli -s 0 --send</span><br><span class="line">successfully sent the SMS</span><br></pre></td></tr></table></figure>
+
+<p>发送成功后,手机收到短信</p>
+<p><a href="https://s2.loli.net/2023/05/28/sotlF2v5qHDyNSU.png"><img src="https://s2.loli.net/2023/05/28/sotlF2v5qHDyNSU.png" alt="image-20230518185043728"></a></p>
+<p>7.列出发送的短信</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">root@openstick:/home/user# sudo mmcli -m 0 --messaging-list-sms</span><br><span class="line">    /org/freedesktop/ModemManager1/SMS/0 (sent)</span><br></pre></td></tr></table></figure>
+
+<p>8.获取单个短信的内容</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line">root@openstick:/home/user#  sudo mmcli -s 0 /org/freedesktop/ModemManager1/SMS/0</span><br><span class="line">  -------------------------------</span><br><span class="line">  General    |              path: /org/freedesktop/ModemManager1/SMS/0</span><br><span class="line">  -------------------------------</span><br><span class="line">  Content    |            number: +8615xxxxxxxx24</span><br><span class="line">             |              text: 测试使用随身wifilinux发送短信</span><br><span class="line">  -------------------------------</span><br><span class="line">  Properties |          pdu type: submit</span><br><span class="line">             |             state: sent</span><br><span class="line">             |   delivery report: not requested</span><br><span class="line">             | message reference: 5</span><br></pre></td></tr></table></figure>
+
+<p>手机向随机wifi上的这个号码发送短信</p>
+<p><a href="https://s2.loli.net/2023/05/28/lB2ukhEwWoqFD9J.png"><img src="https://s2.loli.net/2023/05/28/lB2ukhEwWoqFD9J.png" alt="image-20230518185220647"></a></p>
+<p>9.获取所有短信列表</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line">root@openstick:/home/user# sudo mmcli -m 0 --messaging-list-sms</span><br><span class="line">    /org/freedesktop/ModemManager1/SMS/2 (received)  </span><br><span class="line">    /org/freedesktop/ModemManager1/SMS/1 (stored)</span><br><span class="line">    /org/freedesktop/ModemManager1/SMS/0 (sent)</span><br><span class="line"> #---received 收到的</span><br><span class="line"> #---stored存储的</span><br><span class="line"> #---sent 发送的</span><br></pre></td></tr></table></figure>
+
+<p>10.获取接收到的短信的内容</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line">root@openstick:/home/user# sudo mmcli -s 2 /org/freedesktop/ModemManager1/SMS/2</span><br><span class="line">  -----------------------</span><br><span class="line">  General    |      path: /org/freedesktop/ModemManager1/SMS/2</span><br><span class="line">  -----------------------</span><br><span class="line">  Content    |    number: +8615xxxxxxxx24</span><br><span class="line">             |      text: 测试linux接收电短信</span><br><span class="line">  -----------------------</span><br><span class="line">  Properties |  pdu type: deliver</span><br><span class="line">             |     state: received</span><br><span class="line">             | timestamp: 2023-05-18T13:16:34+08:00</span><br><span class="line">root@openstick:/home/user# </span><br><span class="line"></span><br></pre></td></tr></table></figure>
 ]]></content>
   </entry>
 </search>
