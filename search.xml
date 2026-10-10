@@ -31,26 +31,6 @@
       </tags>
   </entry>
   <entry>
-    <title>我的第一篇文章</title>
-    <url>/posts/7a776471.html</url>
-    <content><![CDATA[<h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><p>正文内容，用 Markdown 写。</p>
-<ul>
-<li>列表项 1</li>
-<li>列表项 2</li>
-</ul>
-<p><strong>加粗</strong>、<em>斜体</em>、<code>代码</code>、<a href="https://example.com/">链接</a></p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;代码块&quot;</span>)</span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>技术</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>建站</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>my-first-post</title>
     <url>/posts/7fa08d77.html</url>
     <content><![CDATA[]]></content>
@@ -809,6 +789,26 @@
 </tbody></table>
 <hr>
 <p><strong>建议保存为 <code>README.md</code> 放在博客根目录</strong>，换电脑或遇到问题时直接翻。</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的第一篇文章</title>
+    <url>/posts/7a776471.html</url>
+    <content><![CDATA[<h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><p>正文内容，用 Markdown 写。</p>
+<ul>
+<li>列表项 1</li>
+<li>列表项 2</li>
+</ul>
+<p><strong>加粗</strong>、<em>斜体</em>、<code>代码</code>、<a href="https://example.com/">链接</a></p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;代码块&quot;</span>)</span><br></pre></td></tr></table></figure>
+
 ]]></content>
       <categories>
         <category>技术</category>
