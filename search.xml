@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/posts/4a17b156.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>So painful</title>
+    <url>/posts/f108f794.html</url>
+    <content><![CDATA[<p>So painful.</p>
 ]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+      </tags>
   </entry>
   <entry>
     <title>my-first-post</title>
@@ -37,6 +31,24 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/posts/4a17b156.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>我的第一篇文章</title>
     <url>/posts/7a776471.html</url>
     <content><![CDATA[<h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><p>正文内容，用 Markdown 写。</p>
@@ -47,6 +59,756 @@
 <p><strong>加粗</strong>、<em>斜体</em>、<code>代码</code>、<a href="https://example.com/">链接</a></p>
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;代码块&quot;</span>)</span><br></pre></td></tr></table></figure>
 
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>本博客搭建及美化完整手册（v2）</title>
+    <url>/posts/b4da18be.html</url>
+    <content><![CDATA[<h1 id="本博客搭建及美化完整手册（v2）"><a href="#本博客搭建及美化完整手册（v2）" class="headerlink" title="本博客搭建及美化完整手册（v2）"></a>本博客搭建及美化完整手册（v2）</h1><blockquote>
+<p>框架: Hexo 7.3.0</p>
+<p>主题 :Butterfly 5.7.0</p>
+</blockquote>
+<h2 id="一、环境准备"><a href="#一、环境准备" class="headerlink" title="一、环境准备"></a>一、环境准备</h2><h3 id="安装三个工具"><a href="#安装三个工具" class="headerlink" title="安装三个工具"></a>安装三个工具</h3><table>
+<thead>
+<tr>
+<th>工具</th>
+<th>下载地址</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Node.js（≥ 12）</td>
+<td><a href="https://nodejs.org/zh-cn/download/">https://nodejs.org/zh-cn/download/</a></td>
+</tr>
+<tr>
+<td>Git</td>
+<td><a href="https://git-scm.com/">https://git-scm.com/</a></td>
+</tr>
+<tr>
+<td>VS Code（可选）</td>
+<td><a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a></td>
+</tr>
+</tbody></table>
+<h3 id="安装-Hexo-CLI"><a href="#安装-Hexo-CLI" class="headerlink" title="安装 Hexo CLI"></a>安装 Hexo CLI</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br><span class="line"></span><br><span class="line"><span class="comment"># 加速（可选）</span></span><br><span class="line">npm config <span class="built_in">set</span> registry https://registry.npmmirror.com</span><br></pre></td></tr></table></figure>
+
+<h3 id="验证"><a href="#验证" class="headerlink" title="验证"></a>验证</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">git --version</span><br><span class="line">hexo -v</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="二、创建-Hexo-博客"><a href="#二、创建-Hexo-博客" class="headerlink" title="二、创建 Hexo 博客"></a>二、创建 Hexo 博客</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> /d</span><br><span class="line">hexo init luren</span><br><span class="line"><span class="built_in">cd</span> luren</span><br><span class="line">npm install</span><br><span class="line"></span><br><span class="line"><span class="comment"># 本地预览</span></span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+
+<p>浏览器打开 <a href="http://localhost:4000/">http://localhost:4000</a> 确认成功，<code>Ctrl+C</code> 停止。</p>
+<h3 id="目录结构"><a href="#目录结构" class="headerlink" title="目录结构"></a>目录结构</h3><figure class="highlight text"><table><tr><td class="code"><pre><span class="line">luren/</span><br><span class="line">├── _config.yml              # 站点主配置</span><br><span class="line">├── _config.butterfly.yml    # 主题配置</span><br><span class="line">├── .gitattributes           # 换行符规范</span><br><span class="line">├── .gitignore               # Git 忽略</span><br><span class="line">├── package.json</span><br><span class="line">├── source/</span><br><span class="line">│   ├── _posts/              # 文章</span><br><span class="line">│   │   └── suishen_wifi_md/ # 子文件夹（不影响 URL）</span><br><span class="line">│   ├── CNAME                # 自定义域名</span><br><span class="line">│   ├── css/custom.css       # 自定义样式</span><br><span class="line">│   ├── js/runtime.js        # 运行时间脚本</span><br><span class="line">│   └── img/                 # 图片</span><br><span class="line">└── themes/butterfly/</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="三、安装-Butterfly-主题"><a href="#三、安装-Butterfly-主题" class="headerlink" title="三、安装 Butterfly 主题"></a>三、安装 Butterfly 主题</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> /d/luren</span><br><span class="line"></span><br><span class="line"><span class="comment"># 下载主题</span></span><br><span class="line">git <span class="built_in">clone</span> -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly</span><br><span class="line"></span><br><span class="line"><span class="comment"># 删掉主题自带 .git</span></span><br><span class="line"><span class="built_in">rm</span> -rf themes/butterfly/.git</span><br><span class="line"></span><br><span class="line"><span class="comment"># 安装插件</span></span><br><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br><span class="line">npm install hexo-deployer-git --save</span><br><span class="line">npm install hexo-generator-searchdb --save</span><br><span class="line">npm install hexo-wordcount --save</span><br><span class="line">npm install hexo-abbrlink --save</span><br></pre></td></tr></table></figure>
+
+<p><strong>启用主题</strong>：编辑 <code>_config.yml</code></p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">theme:</span> <span class="string">butterfly</span></span><br></pre></td></tr></table></figure>
+
+<p><strong>复制主题配置</strong>：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cp</span> themes/butterfly/_config.yml _config.butterfly.yml</span><br></pre></td></tr></table></figure>
+
+<p>以后所有主题修改都在 <code>_config.butterfly.yml</code>。</p>
+<hr>
+<h2 id="四、配置-SSH-连接-GitHub"><a href="#四、配置-SSH-连接-GitHub" class="headerlink" title="四、配置 SSH 连接 GitHub"></a>四、配置 SSH 连接 GitHub</h2><h3 id="1-生成密钥"><a href="#1-生成密钥" class="headerlink" title="1. 生成密钥"></a>1. 生成密钥</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t ed25519 -C <span class="string">&quot;你的邮箱&quot;</span></span><br><span class="line"><span class="built_in">cat</span> ~/.ssh/id_ed25519.pub</span><br></pre></td></tr></table></figure>
+
+<h3 id="2-添加到-GitHub"><a href="#2-添加到-GitHub" class="headerlink" title="2. 添加到 GitHub"></a>2. 添加到 GitHub</h3><p>GitHub → <strong>Settings</strong> → <strong>SSH and GPG keys</strong> → <strong>New SSH key</strong> → 粘贴 → 保存。</p>
+<h3 id="3-处理-22-端口被封（国内必做）"><a href="#3-处理-22-端口被封（国内必做）" class="headerlink" title="3. 处理 22 端口被封（国内必做）"></a>3. 处理 22 端口被封（国内必做）</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cat</span> &gt; ~/.ssh/config &lt;&lt; <span class="string">&#x27;EOF&#x27;</span></span><br><span class="line">Host github.com</span><br><span class="line">    HostName ssh.github.com</span><br><span class="line">    Port 443</span><br><span class="line">    User git</span><br><span class="line">    IdentityFile ~/.ssh/id_ed25519</span><br><span class="line">    IdentitiesOnly <span class="built_in">yes</span></span><br><span class="line">EOF</span><br></pre></td></tr></table></figure>
+
+<h3 id="4-启动-Agent"><a href="#4-启动-Agent" class="headerlink" title="4. 启动 Agent"></a>4. 启动 Agent</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">eval</span> <span class="string">&quot;<span class="subst">$(ssh-agent -s)</span>&quot;</span></span><br><span class="line">ssh-add ~/.ssh/id_ed25519</span><br></pre></td></tr></table></figure>
+
+<h3 id="5-测试"><a href="#5-测试" class="headerlink" title="5. 测试"></a>5. 测试</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure>
+
+<p>期望：<code>Hi xxxxxxxx! You&#39;ve successfully authenticated...</code></p>
+<h3 id="6-Git-身份"><a href="#6-Git-身份" class="headerlink" title="6. Git 身份"></a>6. Git 身份</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;xxxxxxxx&quot;</span></span><br><span class="line">git config --global user.email <span class="string">&quot;GitHub绑定邮箱&quot;</span></span><br><span class="line">git config --global core.autocrlf <span class="literal">false</span></span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="五、创建仓库并部署"><a href="#五、创建仓库并部署" class="headerlink" title="五、创建仓库并部署"></a>五、创建仓库并部署</h2><h3 id="1-创建-GitHub-仓库"><a href="#1-创建-GitHub-仓库" class="headerlink" title="1. 创建 GitHub 仓库"></a>1. 创建 GitHub 仓库</h3><ol>
+<li>GitHub → <strong>+</strong> → <strong>New repository</strong></li>
+<li>仓库名：<code>xxxxxxxx.github.io</code></li>
+<li><strong>Public</strong></li>
+<li><strong>不勾</strong> Add a README</li>
+</ol>
+<h3 id="2-开启-Pages"><a href="#2-开启-Pages" class="headerlink" title="2. 开启 Pages"></a>2. 开启 Pages</h3><p>仓库 → <strong>Settings</strong> → <strong>Pages</strong>：</p>
+<ul>
+<li>Source：<strong>Deploy from a branch</strong></li>
+<li>Branch：<code>main</code>，<code>/ (root)</code></li>
+</ul>
+<h3 id="3-配置部署"><a href="#3-配置部署" class="headerlink" title="3. 配置部署"></a>3. 配置部署</h3><p><code>_config.yml</code>：</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">url:</span> <span class="string">https://luren.bot.cd</span></span><br><span class="line"><span class="attr">root:</span> <span class="string">/</span></span><br><span class="line"></span><br><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">git@github.com:xxxxxxxx/xxxxxxxx.github.io.git</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">main</span></span><br><span class="line">  <span class="attr">message:</span> <span class="string">&quot;更新博客&quot;</span></span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p><strong>注意</strong>：<code>message</code> 别用 <code>&#123;&#123; now(...) &#125;&#125;</code>，<code>hexo-deployer-git@4.0.0</code> 解析会输出 <code>YYYY-10-2026年...</code> 四不像。固定文字最省心。</p>
+</blockquote>
+<h3 id="4-部署"><a href="#4-部署" class="headerlink" title="4. 部署"></a>4. 部署</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo d -g</span><br></pre></td></tr></table></figure>
+
+<h3 id="5-换行符规范"><a href="#5-换行符规范" class="headerlink" title="5. 换行符规范"></a>5. 换行符规范</h3><p>**<code>.gitattributes</code>**：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cat</span> &gt; .gitattributes &lt;&lt; <span class="string">&#x27;EOF&#x27;</span></span><br><span class="line">* text=auto eol=lf</span><br><span class="line">*.png binary</span><br><span class="line">*.jpg binary</span><br><span class="line">*.jpeg binary</span><br><span class="line">*.gif binary</span><br><span class="line">*.webp binary</span><br><span class="line">*.ico binary</span><br><span class="line">*.woff binary</span><br><span class="line">*.woff2 binary</span><br><span class="line">*.ttf binary</span><br><span class="line">EOF</span><br></pre></td></tr></table></figure>
+
+<p>**<code>.gitignore</code>**：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cat</span> &gt; .gitignore &lt;&lt; <span class="string">&#x27;EOF&#x27;</span></span><br><span class="line">.DS_Store</span><br><span class="line">Thumbs.db</span><br><span class="line">db.json</span><br><span class="line">*.<span class="built_in">log</span></span><br><span class="line">node_modules/</span><br><span class="line">public/</span><br><span class="line">.deploy*/</span><br><span class="line">EOF</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="六、自定义域名"><a href="#六、自定义域名" class="headerlink" title="六、自定义域名"></a>六、自定义域名</h2><h3 id="1-创建-CNAME"><a href="#1-创建-CNAME" class="headerlink" title="1. 创建 CNAME"></a>1. 创建 CNAME</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">echo</span> <span class="string">&quot;luren.bot.cd&quot;</span> &gt; <span class="built_in">source</span>/CNAME</span><br></pre></td></tr></table></figure>
+
+<h3 id="2-配置-DNS"><a href="#2-配置-DNS" class="headerlink" title="2. 配置 DNS"></a>2. 配置 DNS</h3><p>域名服务商（本文用 DNSHE：<a href="https://my.dnshe.com/%EF%BC%89%E2%86%92">https://my.dnshe.com/）→</a> DNS 管理：</p>
+<p><strong>方式 A：CNAME</strong></p>
+<table>
+<thead>
+<tr>
+<th>类型</th>
+<th>主机</th>
+<th>值</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>CNAME</td>
+<td><code>luren</code></td>
+<td><code>lurendev.github.io</code></td>
+</tr>
+</tbody></table>
+<p><strong>方式 B：A 记录</strong></p>
+<table>
+<thead>
+<tr>
+<th>类型</th>
+<th>主机</th>
+<th>值</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>A</td>
+<td><code>luren</code></td>
+<td><code>185.199.108.153</code></td>
+</tr>
+<tr>
+<td>A</td>
+<td><code>luren</code></td>
+<td><code>185.199.109.153</code></td>
+</tr>
+<tr>
+<td>A</td>
+<td><code>luren</code></td>
+<td><code>185.199.110.153</code></td>
+</tr>
+<tr>
+<td>A</td>
+<td><code>luren</code></td>
+<td><code>185.199.111.153</code></td>
+</tr>
+</tbody></table>
+<p><strong>Cloudflare 用户</strong>：云朵图标点成<strong>灰色（DNS only）</strong>，等 HTTPS 生效后再改回。</p>
+<h3 id="3-GitHub-填域名"><a href="#3-GitHub-填域名" class="headerlink" title="3. GitHub 填域名"></a>3. GitHub 填域名</h3><p>仓库 → <strong>Settings</strong> → <strong>Pages</strong> → <strong>Custom domain</strong> 填 <code>luren.bot.cd</code>。</p>
+<h3 id="4-开-HTTPS"><a href="#4-开-HTTPS" class="headerlink" title="4. 开 HTTPS"></a>4. 开 HTTPS</h3><p>等 SSL 证书签发（15 分钟内），勾选 <strong>Enforce HTTPS</strong>。</p>
+<h3 id="5-验证"><a href="#5-验证" class="headerlink" title="5. 验证"></a>5. 验证</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nslookup luren.bot.cd</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h2 id="七、主题配置"><a href="#七、主题配置" class="headerlink" title="七、主题配置"></a>七、主题配置</h2><h3 id="7-1-站点基本信息"><a href="#7-1-站点基本信息" class="headerlink" title="7.1 站点基本信息"></a>7.1 站点基本信息</h3><p><strong>文件</strong>：<code>_config.yml</code></p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">title:</span> <span class="string">路人</span></span><br><span class="line"><span class="attr">subtitle:</span> <span class="string">&#x27;记录技术与生活&#x27;</span></span><br><span class="line"><span class="attr">description:</span> <span class="string">&#x27;路人，记录学习与生活&#x27;</span></span><br><span class="line"><span class="attr">keywords:</span> <span class="string">&#x27;Hexo, Butterfly, 博客&#x27;</span></span><br><span class="line"><span class="attr">author:</span> <span class="string">xxxxxxxx</span></span><br><span class="line"><span class="attr">language:</span> <span class="string">zh-CN</span></span><br><span class="line"><span class="attr">timezone:</span> <span class="string">&#x27;Asia/Shanghai&#x27;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 搜索插件</span></span><br><span class="line"><span class="attr">search:</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">search.xml</span></span><br><span class="line">  <span class="attr">field:</span> <span class="string">post</span></span><br><span class="line">  <span class="attr">content:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">format:</span> <span class="string">html</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 按日期排序</span></span><br><span class="line"><span class="attr">index_generator:</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">&#x27;&#x27;</span></span><br><span class="line">  <span class="attr">per_page:</span> <span class="number">10</span></span><br><span class="line">  <span class="attr">order_by:</span> <span class="string">-date</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 禁用 updated 用 mtime</span></span><br><span class="line"><span class="attr">updated_option:</span> <span class="string">&#x27;date&#x27;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 短链接</span></span><br><span class="line"><span class="attr">permalink:</span> <span class="string">posts/:abbrlink.html</span></span><br><span class="line"><span class="attr">abbrlink:</span></span><br><span class="line">  <span class="attr">alg:</span> <span class="string">crc32</span></span><br><span class="line">  <span class="attr">rep:</span> <span class="string">hex</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="7-2-主题配置"><a href="#7-2-主题配置" class="headerlink" title="7.2 主题配置"></a>7.2 主题配置</h3><p><strong>文件</strong>：<code>_config.butterfly.yml</code></p>
+<h4 id="导航菜单"><a href="#导航菜单" class="headerlink" title="导航菜单"></a>导航菜单</h4><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">menu:</span></span><br><span class="line">  <span class="string">首页:</span> <span class="string">/</span> <span class="string">||</span> <span class="string">fas</span> <span class="string">fa-home</span></span><br><span class="line">  <span class="string">时间轴:</span> <span class="string">/archives/</span> <span class="string">||</span> <span class="string">fas</span> <span class="string">fa-archive</span></span><br><span class="line">  <span class="string">标签:</span> <span class="string">/tags/</span> <span class="string">||</span> <span class="string">fas</span> <span class="string">fa-tags</span></span><br><span class="line">  <span class="string">分类:</span> <span class="string">/categories/</span> <span class="string">||</span> <span class="string">fas</span> <span class="string">fa-folder-open</span></span><br><span class="line">  <span class="string">友链:</span> <span class="string">/link/</span> <span class="string">||</span> <span class="string">fas</span> <span class="string">fa-link</span></span><br><span class="line">  <span class="string">关于:</span> <span class="string">/about/</span> <span class="string">||</span> <span class="string">fas</span> <span class="string">fa-heart</span></span><br></pre></td></tr></table></figure>
+
+<p>创建对应页面：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new page tags</span><br><span class="line">hexo new page categories</span><br><span class="line">hexo new page <span class="built_in">link</span></span><br><span class="line">hexo new page about</span><br></pre></td></tr></table></figure>
+
+<p><code>source/tags/index.md</code>：</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="meta">---</span></span><br><span class="line"><span class="attr">title:</span> <span class="string">标签</span></span><br><span class="line"><span class="attr">date:</span> <span class="number">2026-10-04 19:00:00</span></span><br><span class="line"><span class="attr">type:</span> <span class="string">tags</span></span><br><span class="line"><span class="meta">---</span></span><br></pre></td></tr></table></figure>
+
+<p><code>source/categories/index.md</code>：</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="meta">---</span></span><br><span class="line"><span class="attr">title:</span> <span class="string">分类</span></span><br><span class="line"><span class="attr">date:</span> <span class="number">2026-10-04 19:00:00</span></span><br><span class="line"><span class="attr">type:</span> <span class="string">categories</span></span><br><span class="line"><span class="meta">---</span></span><br></pre></td></tr></table></figure>
+
+<h4 id="社交、头像、作者卡片"><a href="#社交、头像、作者卡片" class="headerlink" title="社交、头像、作者卡片"></a>社交、头像、作者卡片</h4><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">social:</span></span><br><span class="line">  <span class="attr">fab fa-github:</span> <span class="string">https://github.com/xxxxxxxx</span> <span class="string">||</span> <span class="string">Github</span> <span class="string">||</span> <span class="string">&#x27;#24292e&#x27;</span></span><br><span class="line">  <span class="attr">fas fa-envelope:</span> <span class="string">mailto:你的邮箱</span> <span class="string">||</span> <span class="string">Email</span> <span class="string">||</span> <span class="string">&#x27;#4a7dbe&#x27;</span></span><br><span class="line"></span><br><span class="line"><span class="attr">favicon:</span> <span class="string">/img/favicon.png</span></span><br><span class="line"></span><br><span class="line"><span class="attr">avatar:</span></span><br><span class="line">  <span class="attr">img:</span> <span class="string">/img/avatar.jpg</span></span><br><span class="line">  <span class="attr">effect:</span> <span class="literal">false</span></span><br><span class="line"></span><br><span class="line"><span class="attr">card_author:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">description:</span> <span class="string">记录技术与生活，欢迎常来逛逛～</span></span><br><span class="line">  <span class="attr">button:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">icon:</span> <span class="string">fab</span> <span class="string">fa-github</span></span><br><span class="line">    <span class="attr">text:</span> <span class="string">Follow</span> <span class="string">Me</span></span><br><span class="line">    <span class="attr">link:</span> <span class="string">https://github.com/xxxxxxxx</span></span><br><span class="line"></span><br><span class="line"><span class="attr">card_announcement:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">content:</span> <span class="string">这里是</span> <span class="string">xxxxxxxx</span> <span class="string">的小站，记录学习与生活。</span></span><br></pre></td></tr></table></figure>
+
+<h4 id="主题色"><a href="#主题色" class="headerlink" title="主题色"></a>主题色</h4><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">theme_color:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">main:</span> <span class="string">&quot;#ff7142&quot;</span></span><br><span class="line">  <span class="attr">paginator:</span> <span class="string">&quot;#ff7142&quot;</span></span><br><span class="line">  <span class="attr">button_hover:</span> <span class="string">&quot;#ff8c69&quot;</span></span><br><span class="line">  <span class="attr">text_selection:</span> <span class="string">&quot;#ff7142&quot;</span></span><br><span class="line">  <span class="attr">link_color:</span> <span class="string">&quot;#ff7142&quot;</span></span><br><span class="line">  <span class="attr">meta_color:</span> <span class="string">&quot;#858585&quot;</span></span><br><span class="line">  <span class="attr">hr_color:</span> <span class="string">&quot;#ff7142&quot;</span></span><br><span class="line">  <span class="attr">code_foreground:</span> <span class="string">&quot;#F47466&quot;</span></span><br><span class="line">  <span class="attr">code_background:</span> <span class="string">&quot;rgba(27, 31, 35, .05)&quot;</span></span><br><span class="line">  <span class="attr">toc_color:</span> <span class="string">&quot;#ff7142&quot;</span></span><br><span class="line">  <span class="attr">blockquote_padding_color:</span> <span class="string">&quot;#ff7142&quot;</span></span><br><span class="line">  <span class="attr">blockquote_background_color:</span> <span class="string">&quot;#ff7142&quot;</span></span><br><span class="line">  <span class="attr">scrollbar_color:</span> <span class="string">&quot;#ff7142&quot;</span></span><br></pre></td></tr></table></figure>
+
+<h4 id="顶图与背景"><a href="#顶图与背景" class="headerlink" title="顶图与背景"></a>顶图与背景</h4><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">default_top_img:</span> <span class="string">transparent</span></span><br><span class="line"><span class="attr">index_img:</span> <span class="string">transparent</span></span><br><span class="line"><span class="attr">archive_img:</span> <span class="literal">false</span></span><br><span class="line"><span class="attr">tag_img:</span> <span class="string">transparent</span></span><br><span class="line"><span class="attr">tag_per_img:</span> <span class="string">transparent</span></span><br><span class="line"><span class="attr">category_img:</span> <span class="string">transparent</span></span><br><span class="line"><span class="attr">category_per_img:</span> <span class="string">transparent</span></span><br><span class="line"><span class="attr">footer_img:</span> <span class="string">transparent</span></span><br><span class="line"><span class="attr">background:</span> <span class="string">/img/core/bkgnd2.webp</span></span><br></pre></td></tr></table></figure>
+
+<h4 id="首页"><a href="#首页" class="headerlink" title="首页"></a>首页</h4><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">index_site_info_top:</span> <span class="string">200px</span></span><br><span class="line"><span class="attr">index_top_img_height:</span> <span class="string">400px</span></span><br><span class="line"><span class="attr">index_layout:</span> <span class="number">3</span></span><br></pre></td></tr></table></figure>
+
+<h4 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h4><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">code_blocks:</span></span><br><span class="line">  <span class="attr">theme:</span> <span class="string">pale</span> <span class="string">night</span></span><br><span class="line">  <span class="attr">macStyle:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">height_limit:</span> <span class="number">800</span></span><br><span class="line">  <span class="attr">word_wrap:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">copy:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">language:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">shrink:</span> <span class="literal">false</span></span><br><span class="line">  <span class="attr">fullpage:</span> <span class="literal">false</span></span><br></pre></td></tr></table></figure>
+
+<h4 id="搜索"><a href="#搜索" class="headerlink" title="搜索"></a>搜索</h4><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">search:</span></span><br><span class="line">  <span class="attr">use:</span> <span class="string">local_search</span></span><br><span class="line">  <span class="attr">placeholder:</span> <span class="string">&#x27;搜索文章...&#x27;</span></span><br><span class="line"></span><br><span class="line">  <span class="attr">algolia_search:</span></span><br><span class="line">    <span class="attr">hitsPerPage:</span> <span class="number">6</span></span><br><span class="line"></span><br><span class="line">  <span class="attr">local_search:</span></span><br><span class="line">    <span class="attr">preload:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">top_n_per_article:</span> <span class="number">1</span></span><br><span class="line">    <span class="attr">unescape:</span> <span class="literal">false</span></span><br><span class="line">    <span class="attr">pagination:</span></span><br><span class="line">      <span class="attr">enable:</span> <span class="literal">false</span></span><br><span class="line">      <span class="attr">hitsPerPage:</span> <span class="number">8</span></span><br><span class="line">    <span class="attr">CDN:</span></span><br><span class="line"></span><br><span class="line">  <span class="attr">docsearch:</span></span><br><span class="line">    <span class="attr">appId:</span></span><br><span class="line">    <span class="attr">apiKey:</span></span><br><span class="line">    <span class="attr">indexName:</span></span><br><span class="line">    <span class="attr">option:</span></span><br></pre></td></tr></table></figure>
+
+<h4 id="默认封面"><a href="#默认封面" class="headerlink" title="默认封面"></a>默认封面</h4><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">cover:</span></span><br><span class="line">  <span class="attr">index_enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">aside_enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">archives_enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">default_cover:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">/img/default_cover.png</span></span><br></pre></td></tr></table></figure>
+
+<h4 id="页脚-运行时间"><a href="#页脚-运行时间" class="headerlink" title="页脚 + 运行时间"></a>页脚 + 运行时间</h4><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">footer:</span></span><br><span class="line">  <span class="attr">owner:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">since:</span> <span class="number">2026</span></span><br><span class="line">  <span class="attr">copyright:</span></span><br><span class="line">    <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">version:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">custom_text:</span> <span class="string">|</span></span><br><span class="line">    <span class="string">&lt;div</span> <span class="string">id=&quot;runtime&quot;&gt;&lt;/div&gt;</span></span><br></pre></td></tr></table></figure>
+
+<h4 id="字数统计"><a href="#字数统计" class="headerlink" title="字数统计"></a>字数统计</h4><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">wordcount:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">post_wordcount:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">min2read:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">total_wordcount:</span> <span class="literal">true</span></span><br><span class="line"></span><br><span class="line"><span class="attr">card_webinfo:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">post_count:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">last_push_date:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">sort_order:</span></span><br><span class="line">  <span class="attr">runtime_date:</span> <span class="number">2026-10-04 19:05:28</span></span><br></pre></td></tr></table></figure>
+
+<h4 id="代码注入"><a href="#代码注入" class="headerlink" title="代码注入"></a>代码注入</h4><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">inject:</span></span><br><span class="line">  <span class="attr">head:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">&lt;link</span> <span class="string">rel=&quot;stylesheet&quot;</span> <span class="string">href=&quot;/css/custom.css?v=6&quot;&gt;</span></span><br><span class="line">  <span class="attr">bottom:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">&lt;script</span> <span class="string">src=&quot;/js/runtime.js&quot;&gt;&lt;/script&gt;</span></span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>每次改 <code>custom.css</code>，<code>?v=</code> 后的数字加 1，否则浏览器和 Cloudflare 缓存不刷新。</p>
+</blockquote>
+<hr>
+<h2 id="八、美化"><a href="#八、美化" class="headerlink" title="八、美化"></a>八、美化</h2><h3 id="8-1-自定义-CSS"><a href="#8-1-自定义-CSS" class="headerlink" title="8.1 自定义 CSS"></a>8.1 自定义 CSS</h3><p><strong>文件</strong>：<code>source/css/custom.css</code></p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="comment">/* ==========================================================</span></span><br><span class="line"><span class="comment">   1. 全局毛玻璃效果</span></span><br><span class="line"><span class="comment">   ========================================================== */</span></span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-id">#recent-posts</span> &gt; <span class="selector-class">.recent-post-item</span>,</span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-class">.recent-post-item</span>,</span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-id">#aside-content</span> <span class="selector-class">.card-widget</span>,</span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-class">.layout</span> &gt; <span class="selector-tag">div</span><span class="selector-pseudo">:first-child</span><span class="selector-pseudo">:not</span>(<span class="selector-class">.recent-posts</span>),</span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-id">#nav</span> <span class="selector-class">.menus_items</span> <span class="selector-class">.menus_item</span> <span class="selector-class">.menus_item_child</span>,</span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-id">#pagination</span> <span class="selector-class">.page-number</span><span class="selector-pseudo">:not</span>(<span class="selector-class">.current</span>),</span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-id">#pagination</span> <span class="selector-class">.extend</span>,</span><br><span class="line"><span class="selector-id">#page-header</span> <span class="selector-id">#post-info</span> &#123;</span><br><span class="line">  <span class="attribute">background</span>: <span class="built_in">rgba</span>(<span class="number">255</span>, <span class="number">255</span>, <span class="number">255</span>, <span class="number">0.85</span>);</span><br><span class="line">  <span class="attribute">backdrop-filter</span>: <span class="built_in">blur</span>(<span class="number">2px</span>);</span><br><span class="line">  -webkit-<span class="attribute">backdrop-filter</span>: <span class="built_in">blur</span>(<span class="number">2px</span>);</span><br><span class="line">  <span class="attribute">border</span>: <span class="number">1px</span> solid <span class="built_in">rgba</span>(<span class="number">255</span>, <span class="number">255</span>, <span class="number">255</span>, <span class="number">0.85</span>);</span><br><span class="line">  <span class="attribute">box-shadow</span>: <span class="number">0</span> <span class="number">8px</span> <span class="number">16px</span> -<span class="number">4px</span> <span class="built_in">rgba</span>(<span class="number">138</span>, <span class="number">138</span>, <span class="number">138</span>, <span class="number">0.15</span>);</span><br><span class="line">  <span class="attribute">transition</span>: background <span class="number">0.3s</span> ease, border <span class="number">0.3s</span> ease, box-shadow <span class="number">0.3s</span> ease;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-id">#pagination</span> <span class="selector-class">.page-number</span><span class="selector-pseudo">:not</span>(<span class="selector-class">.current</span>)<span class="selector-pseudo">:hover</span>,</span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-id">#pagination</span> <span class="selector-class">.extend</span><span class="selector-pseudo">:hover</span> &#123;</span><br><span class="line">  <span class="attribute">background</span>: <span class="number">#ff7142d2</span>;</span><br><span class="line">  <span class="attribute">border-color</span>: <span class="number">#ff7142d2</span>;</span><br><span class="line">  <span class="attribute">color</span>: <span class="number">#fff</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* 夜间模式 */</span></span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-id">#body-wrap</span> <span class="selector-id">#recent-posts</span> &gt; <span class="selector-class">.recent-post-item</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-id">#body-wrap</span> <span class="selector-class">.recent-post-item</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-id">#body-wrap</span> <span class="selector-id">#aside-content</span> <span class="selector-class">.card-widget</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-id">#body-wrap</span> <span class="selector-class">.layout</span> &gt; <span class="selector-tag">div</span><span class="selector-pseudo">:first-child</span><span class="selector-pseudo">:not</span>(<span class="selector-class">.recent-posts</span>),</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-id">#body-wrap</span> <span class="selector-id">#nav</span> <span class="selector-class">.menus_items</span> <span class="selector-class">.menus_item</span> <span class="selector-class">.menus_item_child</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-id">#body-wrap</span> <span class="selector-id">#pagination</span> <span class="selector-class">.page-number</span><span class="selector-pseudo">:not</span>(<span class="selector-class">.current</span>),</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-id">#body-wrap</span> <span class="selector-id">#pagination</span> <span class="selector-class">.extend</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-id">#page-header</span> <span class="selector-id">#post-info</span> &#123;</span><br><span class="line">  <span class="attribute">background</span>: <span class="built_in">rgba</span>(<span class="number">30</span>, <span class="number">30</span>, <span class="number">30</span>, <span class="number">0.9</span>);</span><br><span class="line">  <span class="attribute">border</span>: <span class="number">1px</span> solid <span class="built_in">rgba</span>(<span class="number">255</span>, <span class="number">255</span>, <span class="number">255</span>, <span class="number">0.08</span>);</span><br><span class="line">  <span class="attribute">box-shadow</span>: <span class="number">0</span> <span class="number">8px</span> <span class="number">16px</span> -<span class="number">4px</span> <span class="built_in">rgba</span>(<span class="number">0</span>, <span class="number">0</span>, <span class="number">0</span>, <span class="number">0.2</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* ==========================================================</span></span><br><span class="line"><span class="comment">   2. 明亮模式文本颜色（背景深图 → 白字 + 阴影）</span></span><br><span class="line"><span class="comment">   ========================================================== */</span></span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#site-title</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-class">.site-title</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#site-name</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#site-info</span> <span class="selector-class">.site-subtitle</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#subtitle</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#nav</span> <span class="selector-id">#blog-info</span> <span class="selector-class">.site-name</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#nav</span> <span class="selector-id">#blog-info</span> <span class="selector-tag">a</span> &#123;</span><br><span class="line">  <span class="attribute">color</span>: <span class="number">#ffffff</span>;</span><br><span class="line">  <span class="attribute">text-shadow</span>: <span class="number">0</span> <span class="number">2px</span> <span class="number">8px</span> <span class="built_in">rgba</span>(<span class="number">0</span>, <span class="number">0</span>, <span class="number">0</span>, <span class="number">0.6</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#nav</span> <span class="selector-class">.site-page</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#nav</span> <span class="selector-class">.menus_items</span> <span class="selector-class">.menus_item</span> &gt; <span class="selector-tag">a</span> &gt; <span class="selector-tag">span</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#nav</span> <span class="selector-class">.menus_items</span> <span class="selector-class">.menus_item</span> &gt; <span class="selector-tag">a</span> &gt; <span class="selector-tag">i</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#search-button</span> &gt; <span class="selector-tag">a</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#search-button</span> &gt; <span class="selector-tag">a</span> &gt; <span class="selector-tag">span</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#search-button</span> &gt; <span class="selector-tag">a</span> &gt; <span class="selector-tag">i</span> &#123;</span><br><span class="line">  <span class="attribute">color</span>: <span class="number">#ffffff</span>;</span><br><span class="line">  <span class="attribute">text-shadow</span>: <span class="number">0</span> <span class="number">2px</span> <span class="number">8px</span> <span class="built_in">rgba</span>(<span class="number">0</span>, <span class="number">0</span>, <span class="number">0</span>, <span class="number">0.6</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#nav</span> <span class="selector-class">.menus_item</span><span class="selector-pseudo">:hover</span> &gt; <span class="selector-tag">a</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#nav</span> <span class="selector-class">.menus_item</span><span class="selector-pseudo">:hover</span> &gt; <span class="selector-tag">a</span> &gt; <span class="selector-tag">span</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#nav</span> <span class="selector-class">.menus_item</span><span class="selector-pseudo">:hover</span> &gt; <span class="selector-tag">a</span> &gt; <span class="selector-tag">i</span> &#123;</span><br><span class="line">  <span class="attribute">color</span>: <span class="number">#ff7142</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#page-header</span> <span class="selector-class">.page-title</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#footer</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#footer</span> <span class="selector-tag">a</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#footer</span> <span class="selector-tag">div</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#footer</span> <span class="selector-tag">p</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#footer</span> <span class="selector-tag">span</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#footer</span> <span class="selector-class">.copyright</span> *,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#post-info</span> <span class="selector-class">.post-title</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#post-info</span> <span class="selector-id">#post-meta</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#post-info</span> <span class="selector-id">#post-meta</span> <span class="selector-tag">a</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#post-info</span> <span class="selector-id">#post-meta</span> <span class="selector-class">.post-meta-separator</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#post-info</span> <span class="selector-id">#post-meta</span> <span class="selector-tag">i</span> &#123;</span><br><span class="line">  <span class="attribute">color</span>: <span class="number">#ffffff</span>;</span><br><span class="line">  <span class="attribute">text-shadow</span>: <span class="number">0</span> <span class="number">2px</span> <span class="number">8px</span> <span class="built_in">rgba</span>(<span class="number">0</span>, <span class="number">0</span>, <span class="number">0</span>, <span class="number">0.6</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* ==========================================================</span></span><br><span class="line"><span class="comment">   3. 页头页脚透明</span></span><br><span class="line"><span class="comment">   ========================================================== */</span></span><br><span class="line"><span class="selector-id">#footer</span>,</span><br><span class="line"><span class="selector-id">#page-header</span><span class="selector-class">.post-bg</span>,</span><br><span class="line"><span class="selector-id">#page-header</span><span class="selector-class">.page-bg</span> &#123;</span><br><span class="line">  <span class="attribute">background</span>: transparent;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#page-header</span><span class="selector-class">.post-bg</span><span class="selector-pseudo">::before</span>,</span><br><span class="line"><span class="selector-id">#page-header</span><span class="selector-class">.page-bg</span><span class="selector-pseudo">::before</span> &#123;</span><br><span class="line">  <span class="attribute">background-color</span>: transparent;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* ==========================================================</span></span><br><span class="line"><span class="comment">   4. 文章卡片透明</span></span><br><span class="line"><span class="comment">   ========================================================== */</span></span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-id">#recent-posts</span> &gt; <span class="selector-class">.recent-post-item</span> <span class="selector-class">.recent-post-info</span>,</span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-id">#recent-posts</span> &gt; <span class="selector-class">.recent-post-item</span> <span class="selector-class">.recent-post-info</span><span class="selector-pseudo">::before</span>,</span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-id">#recent-posts</span> &gt; <span class="selector-class">.recent-post-item</span> <span class="selector-class">.recent-post-info</span><span class="selector-pseudo">::after</span>,</span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-id">#recent-posts</span> &gt; <span class="selector-class">.recent-post-item</span> <span class="selector-class">.recent-post-info</span> &gt; <span class="selector-class">.article-title</span>,</span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-id">#recent-posts</span> &gt; <span class="selector-class">.recent-post-item</span> <span class="selector-class">.recent-post-info</span> &gt; <span class="selector-class">.article-meta-wrap</span>,</span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-id">#recent-posts</span> &gt; <span class="selector-class">.recent-post-item</span> <span class="selector-class">.recent-post-info</span> &gt; <span class="selector-class">.content</span> &#123;</span><br><span class="line">  <span class="attribute">background</span>: transparent;</span><br><span class="line">  <span class="attribute">background-color</span>: transparent;</span><br><span class="line">  <span class="attribute">box-shadow</span>: none;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-id">#page-header</span> <span class="selector-id">#post-info</span> &#123;</span><br><span class="line">  <span class="attribute">position</span>: absolute;</span><br><span class="line">  <span class="attribute">bottom</span>: <span class="number">0px</span>;</span><br><span class="line">  <span class="attribute">left</span>: <span class="number">50%</span>;</span><br><span class="line">  <span class="attribute">transform</span>: <span class="built_in">translateX</span>(-<span class="number">50%</span>);</span><br><span class="line">  <span class="attribute">margin</span>: <span class="number">0</span>;</span><br><span class="line">  <span class="attribute">padding</span>: <span class="number">20px</span> <span class="number">40px</span>;</span><br><span class="line">  <span class="attribute">box-sizing</span>: border-box;</span><br><span class="line">  <span class="attribute">display</span>: block;</span><br><span class="line">  <span class="attribute">text-align</span>: left;</span><br><span class="line">  <span class="attribute">border-radius</span>: <span class="number">10px</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">@media</span> screen <span class="keyword">and</span> (<span class="attribute">max-width</span>: <span class="number">768px</span>) &#123;</span><br><span class="line">  <span class="selector-id">#page-header</span> <span class="selector-id">#post-info</span> &#123;</span><br><span class="line">    <span class="attribute">padding</span>: <span class="number">15px</span> <span class="number">20px</span>;</span><br><span class="line">    <span class="attribute">bottom</span>: <span class="number">20px</span>;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="selector-id">#post-info</span> <span class="selector-id">#post-meta</span> &gt; <span class="selector-class">.meta-firstline</span> &gt; <span class="selector-tag">span</span><span class="selector-pseudo">:not</span>(<span class="selector-class">.post-meta-wordcount</span>),</span><br><span class="line">  <span class="selector-id">#post-info</span> <span class="selector-id">#post-meta</span> &gt; <span class="selector-class">.meta-secondline</span> &gt; <span class="selector-tag">span</span><span class="selector-pseudo">:not</span>(<span class="selector-class">.post-meta-wordcount</span>) &#123;</span><br><span class="line">    <span class="attribute">display</span>: none;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="selector-id">#post-info</span> <span class="selector-id">#post-meta</span> &gt; <span class="selector-class">.meta-firstline</span> &gt; <span class="selector-class">.post-meta-separator</span>,</span><br><span class="line">  <span class="selector-id">#post-info</span> <span class="selector-id">#post-meta</span> &gt; <span class="selector-class">.meta-secondline</span> &gt; <span class="selector-class">.post-meta-separator</span> &#123;</span><br><span class="line">    <span class="attribute">display</span>: none;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="selector-id">#post-info</span> <span class="selector-class">.post-title</span> &#123;</span><br><span class="line">    <span class="attribute">text-align</span>: justify;</span><br><span class="line">    <span class="attribute">text-align-last</span>: left;</span><br><span class="line">    <span class="attribute">display</span>: block;</span><br><span class="line">    <span class="attribute">margin-bottom</span>: <span class="number">10px</span>;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* ==========================================================</span></span><br><span class="line"><span class="comment">   5. 代码块配色 - 明亮模式</span></span><br><span class="line"><span class="comment">   ========================================================== */</span></span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) &#123;</span><br><span class="line">  <span class="attr">--hl-bg</span>: <span class="number">#f4f7fa</span>;</span><br><span class="line">  <span class="attr">--hltools-bg</span>: <span class="number">#e9eef4</span>;</span><br><span class="line">  <span class="attr">--hlnumber-bg</span>: <span class="number">#f4f7fa</span>;</span><br><span class="line">  <span class="attr">--hlnumber-color</span>: <span class="number">#8da4bb</span>;</span><br><span class="line">  <span class="attr">--hlscrollbar-bg</span>: <span class="number">#dbe6f0</span>;</span><br><span class="line">  <span class="attr">--hlexpand-bg</span>: <span class="built_in">linear-gradient</span>(<span class="number">180deg</span>, <span class="built_in">rgba</span>(<span class="number">244</span>, <span class="number">247</span>, <span class="number">250</span>, <span class="number">0</span>), <span class="built_in">rgba</span>(<span class="number">244</span>, <span class="number">247</span>, <span class="number">250</span>, <span class="number">0.9</span>));</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#article-container</span> <span class="selector-class">.highlight</span> <span class="selector-tag">table</span> &#123; <span class="attribute">background-color</span>: <span class="number">#f4f7fa</span>; &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.keyword</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.built_in</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.type</span> &#123; <span class="attribute">color</span>: <span class="number">#005cc5</span>; &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.string</span> &#123; <span class="attribute">color</span>: <span class="number">#22863a</span>; &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.comment</span> &#123; <span class="attribute">color</span>: <span class="number">#677886</span>; <span class="attribute">font-style</span>: italic; &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.number</span> &#123; <span class="attribute">color</span>: <span class="number">#d130a5</span>; &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.title</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.function</span> &#123; <span class="attribute">color</span>: <span class="number">#0077aa</span>; &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.meta</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.meta-keyword</span> &#123; <span class="attribute">color</span>: <span class="number">#8b3c9b</span>; &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.attr</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.variable</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.params</span> &#123; <span class="attribute">color</span>: <span class="number">#212f3b</span>; &#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* ==========================================================</span></span><br><span class="line"><span class="comment">   6. 代码块配色 - 夜间模式</span></span><br><span class="line"><span class="comment">   ========================================================== */</span></span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> &#123;</span><br><span class="line">  <span class="attr">--hl-bg</span>: <span class="number">#0b0f19</span>;</span><br><span class="line">  <span class="attr">--hltools-bg</span>: <span class="number">#111726</span>;</span><br><span class="line">  <span class="attr">--hlnumber-bg</span>: <span class="number">#0b0f19</span>;</span><br><span class="line">  <span class="attr">--hlnumber-color</span>: <span class="number">#5c6c7f</span>;</span><br><span class="line">  <span class="attr">--hlscrollbar-bg</span>: <span class="number">#1e293b</span>;</span><br><span class="line">  <span class="attr">--hlexpand-bg</span>: <span class="built_in">linear-gradient</span>(<span class="number">180deg</span>, <span class="built_in">rgba</span>(<span class="number">11</span>, <span class="number">15</span>, <span class="number">25</span>, <span class="number">0</span>), <span class="built_in">rgba</span>(<span class="number">11</span>, <span class="number">15</span>, <span class="number">25</span>, <span class="number">0.9</span>));</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-id">#article-container</span> <span class="selector-class">.highlight</span> <span class="selector-tag">table</span> &#123; <span class="attribute">background-color</span>: <span class="number">#0b0f19</span>; &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.keyword</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.built_in</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.type</span> &#123; <span class="attribute">color</span>: <span class="number">#569cd6</span>; &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.string</span> &#123; <span class="attribute">color</span>: <span class="number">#8fca5c</span>; &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.comment</span> &#123; <span class="attribute">color</span>: <span class="number">#5c7080</span>; <span class="attribute">font-style</span>: italic; &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.number</span> &#123; <span class="attribute">color</span>: <span class="number">#f07178</span>; &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.title</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.function</span> &#123; <span class="attribute">color</span>: <span class="number">#82aaff</span>; &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.meta</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.meta-keyword</span> &#123; <span class="attribute">color</span>: <span class="number">#c792ea</span>; &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.attr</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.variable</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-class">.highlight</span> <span class="selector-class">.code</span> <span class="selector-class">.params</span> &#123; <span class="attribute">color</span>: <span class="number">#a6bcdc</span>; &#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* ==========================================================</span></span><br><span class="line"><span class="comment">   7. 表格样式</span></span><br><span class="line"><span class="comment">   ========================================================== */</span></span><br><span class="line"><span class="selector-id">#article-container</span> <span class="selector-tag">table</span> <span class="selector-tag">th</span>,</span><br><span class="line"><span class="selector-id">#article-container</span> <span class="selector-tag">table</span> <span class="selector-tag">thead</span> <span class="selector-tag">th</span> &#123; <span class="attribute">text-align</span>: center; &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#article-container</span> <span class="selector-tag">table</span> &#123; <span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">255</span>, <span class="number">255</span>, <span class="number">255</span>, <span class="number">0.5</span>); &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#article-container</span> <span class="selector-tag">table</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#article-container</span> <span class="selector-tag">table</span> <span class="selector-tag">th</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#article-container</span> <span class="selector-tag">table</span> <span class="selector-tag">td</span> &#123;</span><br><span class="line">  <span class="attribute">border-color</span>: <span class="number">#919191da</span>;</span><br><span class="line">  <span class="attribute">border-width</span>: <span class="number">1px</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-pseudo">:not</span>(<span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span>) <span class="selector-id">#article-container</span> <span class="selector-tag">table</span> <span class="selector-tag">tbody</span> <span class="selector-tag">tr</span><span class="selector-pseudo">:nth-child</span>(even) &#123;</span><br><span class="line">  <span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">240</span>, <span class="number">244</span>, <span class="number">248</span>, <span class="number">0.5</span>);</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-id">#article-container</span> <span class="selector-tag">table</span> &#123; <span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">22</span>, <span class="number">27</span>, <span class="number">34</span>, <span class="number">0.5</span>); &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-id">#article-container</span> <span class="selector-tag">table</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-id">#article-container</span> <span class="selector-tag">table</span> <span class="selector-tag">th</span>,</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-id">#article-container</span> <span class="selector-tag">table</span> <span class="selector-tag">td</span> &#123;</span><br><span class="line">  <span class="attribute">border-color</span>: <span class="number">#5c6c7f</span>;</span><br><span class="line">  <span class="attribute">border-width</span>: <span class="number">1px</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-id">#article-container</span> <span class="selector-tag">table</span> <span class="selector-tag">tbody</span> <span class="selector-tag">tr</span><span class="selector-pseudo">:nth-child</span>(even) &#123;</span><br><span class="line">  <span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">30</span>, <span class="number">36</span>, <span class="number">44</span>, <span class="number">0.5</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* ==========================================================</span></span><br><span class="line"><span class="comment">   8. 排版</span></span><br><span class="line"><span class="comment">   ========================================================== */</span></span><br><span class="line"><span class="selector-id">#body-wrap</span> <span class="selector-id">#page</span> <span class="selector-class">.page-title</span> &#123; <span class="attribute">text-align</span>: center; &#125;</span><br><span class="line"><span class="selector-id">#article-container</span> &#123; <span class="attribute">text-align</span>: justify; &#125;</span><br><span class="line"><span class="selector-id">#article-container</span> <span class="selector-tag">img</span> &#123;</span><br><span class="line">  <span class="attribute">border-radius</span>: <span class="number">8px</span>;</span><br><span class="line">  <span class="attribute">transition</span>: transform <span class="number">0.3s</span> ease, box-shadow <span class="number">0.3s</span> ease;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#article-container</span> <span class="selector-tag">img</span><span class="selector-pseudo">:hover</span> &#123;</span><br><span class="line">  <span class="attribute">transform</span>: <span class="built_in">scale</span>(<span class="number">1.02</span>);</span><br><span class="line">  <span class="attribute">box-shadow</span>: <span class="number">0</span> <span class="number">6px</span> <span class="number">20px</span> <span class="built_in">rgba</span>(<span class="number">0</span>, <span class="number">0</span>, <span class="number">0</span>, <span class="number">0.15</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* ==========================================================</span></span><br><span class="line"><span class="comment">   9. 滚动条</span></span><br><span class="line"><span class="comment">   ========================================================== */</span></span><br><span class="line">::-webkit-scrollbar &#123; <span class="attribute">width</span>: <span class="number">8px</span>; <span class="attribute">height</span>: <span class="number">8px</span>; &#125;</span><br><span class="line">::-webkit-scrollbar-track &#123; <span class="attribute">background</span>: <span class="number">#f1f1f1</span>; <span class="attribute">border-radius</span>: <span class="number">4px</span>; &#125;</span><br><span class="line">::-webkit-scrollbar-thumb &#123;</span><br><span class="line">  <span class="attribute">background</span>: <span class="built_in">linear-gradient</span>(<span class="number">135deg</span>, <span class="number">#ff7142</span>, <span class="number">#ff8c69</span>);</span><br><span class="line">  <span class="attribute">border-radius</span>: <span class="number">4px</span>;</span><br><span class="line">&#125;</span><br><span class="line">::-webkit-scrollbar-thumb:hover &#123; <span class="attribute">background</span>: <span class="built_in">linear-gradient</span>(<span class="number">135deg</span>, <span class="number">#ff8c69</span>, <span class="number">#ff7142</span>); &#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> ::-webkit-scrollbar-track &#123; <span class="attribute">background</span>: <span class="number">#1a1a1a</span>; &#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* ==========================================================</span></span><br><span class="line"><span class="comment">   10. 页脚运行时间</span></span><br><span class="line"><span class="comment">   ========================================================== */</span></span><br><span class="line"><span class="keyword">@font-face</span> &#123;</span><br><span class="line">  <span class="attribute">font-family</span>: <span class="string">&#x27;UnidreamLED&#x27;</span>;</span><br><span class="line">  <span class="attribute">src</span>: <span class="built_in">url</span>(<span class="string">&#x27;../font/UnidreamLED.ttf&#x27;</span>);</span><br><span class="line">  <span class="attribute">font-display</span>: swap;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-tag">div</span><span class="selector-id">#runtime</span> &#123;</span><br><span class="line">  <span class="attribute">width</span>: fit-content;</span><br><span class="line">  <span class="attribute">max-width</span>: <span class="number">100%</span>;</span><br><span class="line">  <span class="attribute">margin</span>: <span class="number">0</span> auto;</span><br><span class="line">  <span class="attribute">color</span>: <span class="number">#333</span>;</span><br><span class="line">  <span class="attribute">border-radius</span>: <span class="number">10px</span>;</span><br><span class="line">  <span class="attribute">font-family</span>: <span class="string">&#x27;UnidreamLED&#x27;</span>, <span class="string">&#x27;PingFang SC&#x27;</span>, <span class="string">&#x27;Microsoft YaHei&#x27;</span>, sans-serif;</span><br><span class="line">  <span class="attribute">display</span>: flex;</span><br><span class="line">  <span class="attribute">align-items</span>: center;</span><br><span class="line">  <span class="attribute">justify-content</span>: center;</span><br><span class="line">  <span class="attribute">flex-wrap</span>: wrap;</span><br><span class="line">  <span class="attribute">gap</span>: <span class="number">5px</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-tag">html</span><span class="selector-attr">[data-theme=<span class="string">&quot;dark&quot;</span>]</span> <span class="selector-tag">div</span><span class="selector-id">#runtime</span> &#123; <span class="attribute">color</span>: <span class="number">#c0c0c0</span>; &#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/* ==========================================================</span></span><br><span class="line"><span class="comment">   11. 背景控制</span></span><br><span class="line"><span class="comment">   ========================================================== */</span></span><br><span class="line"><span class="selector-id">#web_bg</span> &#123;</span><br><span class="line">  <span class="attribute">background-size</span>: cover <span class="meta">!important</span>;</span><br><span class="line">  <span class="attribute">background-position</span>: center center <span class="meta">!important</span>;</span><br><span class="line">  <span class="attribute">background-repeat</span>: no-repeat <span class="meta">!important</span>;</span><br><span class="line">  <span class="attribute">background-attachment</span>: fixed <span class="meta">!important</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p><strong>注意</strong>：<code>UnidreamLED.ttf</code> 字体不存在时，控制台会 404，不影响功能。想消除可以删掉 <code>@font-face</code> 段并把 <code>font-family</code> 里的 <code>UnidreamLED</code> 去掉。</p>
+</blockquote>
+<h3 id="8-2-运行时间脚本"><a href="#8-2-运行时间脚本" class="headerlink" title="8.2 运行时间脚本"></a>8.2 运行时间脚本</h3><p><strong>文件</strong>：<code>source/js/runtime.js</code></p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">updateRuntime</span>(<span class="params"></span>) &#123;</span><br><span class="line">  <span class="comment">// 博客上线时间：年, 月(0-11), 日, 时, 分, 秒</span></span><br><span class="line">  <span class="keyword">const</span> createTime = <span class="keyword">new</span> <span class="title class_">Date</span>(<span class="number">2026</span>, <span class="number">9</span>, <span class="number">4</span>, <span class="number">19</span>, <span class="number">5</span>, <span class="number">28</span>).<span class="title function_">getTime</span>();</span><br><span class="line"></span><br><span class="line">  <span class="keyword">const</span> now = <span class="keyword">new</span> <span class="title class_">Date</span>().<span class="title function_">getTime</span>();</span><br><span class="line">  <span class="keyword">let</span> totalSeconds = <span class="title class_">Math</span>.<span class="title function_">floor</span>((now - createTime) / <span class="number">1000</span>);</span><br><span class="line">  <span class="keyword">if</span> (totalSeconds &lt; <span class="number">0</span>) totalSeconds = <span class="number">0</span>;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">const</span> daysInYear = <span class="number">365</span>;</span><br><span class="line">  <span class="keyword">const</span> years = <span class="title class_">Math</span>.<span class="title function_">floor</span>(totalSeconds / (daysInYear * <span class="number">24</span> * <span class="number">3600</span>));</span><br><span class="line">  totalSeconds %= daysInYear * <span class="number">24</span> * <span class="number">3600</span>;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">const</span> days = <span class="title class_">Math</span>.<span class="title function_">floor</span>(totalSeconds / (<span class="number">24</span> * <span class="number">3600</span>));</span><br><span class="line">  totalSeconds %= <span class="number">24</span> * <span class="number">3600</span>;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">const</span> hours = <span class="title class_">Math</span>.<span class="title function_">floor</span>(totalSeconds / <span class="number">3600</span>);</span><br><span class="line">  totalSeconds %= <span class="number">3600</span>;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">const</span> minutes = <span class="title class_">Math</span>.<span class="title function_">floor</span>(totalSeconds / <span class="number">60</span>);</span><br><span class="line">  <span class="keyword">const</span> seconds = totalSeconds % <span class="number">60</span>;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">const</span> <span class="title function_">formatZero</span> = (<span class="params">num</span>) =&gt; (num &gt; <span class="number">9</span> ? num : <span class="string">&#x27;0&#x27;</span> + num);</span><br><span class="line"></span><br><span class="line">  <span class="keyword">const</span> currentHour = <span class="keyword">new</span> <span class="title class_">Date</span>().<span class="title function_">getHours</span>();</span><br><span class="line">  <span class="keyword">const</span> statusHtml = currentHour &gt;= <span class="number">8</span> &amp;&amp; currentHour &lt; <span class="number">22</span> ? <span class="string">&#x27;小窝营业中 — &#x27;</span> : <span class="string">&#x27;小窝打烊了 — &#x27;</span>;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">const</span> timeHtml = <span class="string">`已度过 <span class="subst">$&#123;years&#125;</span> 年 <span class="subst">$&#123;days&#125;</span> 天 <span class="subst">$&#123;formatZero(hours)&#125;</span> : <span class="subst">$&#123;formatZero(minutes)&#125;</span> : <span class="subst">$&#123;formatZero(seconds)&#125;</span>`</span>;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">const</span> workboard = <span class="variable language_">document</span>.<span class="title function_">getElementById</span>(<span class="string">&#x27;runtime&#x27;</span>);</span><br><span class="line">  <span class="keyword">if</span> (workboard) &#123;</span><br><span class="line">    workboard.<span class="property">innerHTML</span> = statusHtml + timeHtml;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="title function_">updateRuntime</span>();</span><br><span class="line"><span class="built_in">setInterval</span>(updateRuntime, <span class="number">1000</span>);</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p><strong><code>new Date()</code> 必须用数字参数</strong>，不要用 <code>&#39;2026-10-04&#39;</code> 字符串，部分环境解析会 NaN。</p>
+</blockquote>
+<hr>
+<h2 id="九、图片资源清单"><a href="#九、图片资源清单" class="headerlink" title="九、图片资源清单"></a>九、图片资源清单</h2><p><strong>目录</strong>：<code>source/img/</code></p>
+<table>
+<thead>
+<tr>
+<th>文件</th>
+<th>用途</th>
+<th>引用位置</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>avatar.jpg</code></td>
+<td>头像</td>
+<td><code>avatar.img</code></td>
+</tr>
+<tr>
+<td><code>favicon.png</code> &#x2F; <code>favicon.ico</code></td>
+<td>浏览器标签图标</td>
+<td><code>favicon</code></td>
+</tr>
+<tr>
+<td><code>default_cover.png</code></td>
+<td>文章默认封面</td>
+<td><code>cover.default_cover</code></td>
+</tr>
+<tr>
+<td><code>cover.jpg</code></td>
+<td>单篇文章封面</td>
+<td>文章 front-matter</td>
+</tr>
+<tr>
+<td><code>core/bkgnd2.webp</code></td>
+<td>全局背景</td>
+<td><code>background</code></td>
+</tr>
+<tr>
+<td><code>404.jpg</code></td>
+<td>错误图</td>
+<td><code>error_img.post_page</code></td>
+</tr>
+<tr>
+<td><code>error-page.png</code></td>
+<td>404 页背景</td>
+<td><code>error_404.background</code></td>
+</tr>
+<tr>
+<td><code>friend_404.gif</code></td>
+<td>友链错误图</td>
+<td><code>error_img.flink</code></td>
+</tr>
+</tbody></table>
+<p><strong>目录</strong>：<code>source/font/</code></p>
+<table>
+<thead>
+<tr>
+<th>文件</th>
+<th>用途</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>UnidreamLED.ttf</code></td>
+<td>运行时间字体（可选）</td>
+</tr>
+</tbody></table>
+<p><strong>目录</strong>：<code>source/</code></p>
+<table>
+<thead>
+<tr>
+<th>文件</th>
+<th>用途</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>CNAME</code></td>
+<td>自定义域名</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="十、写文章规范"><a href="#十、写文章规范" class="headerlink" title="十、写文章规范"></a>十、写文章规范</h2><h3 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> /d/luren</span><br><span class="line">hexo new <span class="string">&quot;文章标题&quot;</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="front-matter-规范（重要）"><a href="#front-matter-规范（重要）" class="headerlink" title="front-matter 规范（重要）"></a>front-matter 规范（重要）</h3><figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 我的第一篇文章</span><br><span class="line">date: 2026-10-04 18:31:00</span><br><span class="line">updated: 2026-10-04 18:31:00</span><br><span class="line">tags: [Hexo, 建站]</span><br><span class="line">categories: 技术</span><br><span class="line">cover: /img/cover.jpg</span><br><span class="line"><span class="section">top: true</span></span><br><span class="line"><span class="section">---</span></span><br><span class="line"></span><br><span class="line">正文内容。</span><br></pre></td></tr></table></figure>
+
+<p><strong>每篇文章的 <code>date</code> 和 <code>updated</code> 必须各不相同</strong>，否则列表页会抖。</p>
+<h3 id="常用字段"><a href="#常用字段" class="headerlink" title="常用字段"></a>常用字段</h3><table>
+<thead>
+<tr>
+<th>字段</th>
+<th>作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>title</code></td>
+<td>标题</td>
+</tr>
+<tr>
+<td><code>date</code></td>
+<td>发布时间</td>
+</tr>
+<tr>
+<td><code>updated</code></td>
+<td>更新时间</td>
+</tr>
+<tr>
+<td><code>tags</code></td>
+<td>标签</td>
+</tr>
+<tr>
+<td><code>categories</code></td>
+<td>分类</td>
+</tr>
+<tr>
+<td><code>cover</code></td>
+<td>卡片缩略图</td>
+</tr>
+<tr>
+<td><code>top_img</code></td>
+<td>详情页顶图</td>
+</tr>
+<tr>
+<td><code>top</code></td>
+<td>置顶</td>
+</tr>
+<tr>
+<td><code>toc</code></td>
+<td>是否显示目录</td>
+</tr>
+<tr>
+<td><code>abbrlink</code></td>
+<td>自定义短链接</td>
+</tr>
+</tbody></table>
+<h3 id="子文件夹"><a href="#子文件夹" class="headerlink" title="子文件夹"></a>子文件夹</h3><p><code>source/_posts/</code> 下可以建子文件夹方便管理：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">mkdir</span> <span class="built_in">source</span>/_posts/suishen_wifi_md</span><br><span class="line"><span class="built_in">mv</span> <span class="built_in">source</span>/_posts/*随身*.md <span class="built_in">source</span>/_posts/suishen_wifi_md/</span><br></pre></td></tr></table></figure>
+
+<p><strong>URL 不会因为子文件夹而改变</strong>，Hexo 会扁平化处理。</p>
+<hr>
+<h2 id="十一、导入外部文章"><a href="#十一、导入外部文章" class="headerlink" title="十一、导入外部文章"></a>十一、导入外部文章</h2><p>从其他平台（Obsidian、Notion 等）导出的 md 文件，front-matter 格式和 Hexo 不同，需要转换。</p>
+<h3 id="常见导出格式"><a href="#常见导出格式" class="headerlink" title="常见导出格式"></a>常见导出格式</h3><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="meta">---</span></span><br><span class="line"><span class="attr">created:</span> <span class="number">2026-10-05T21:46:57</span> <span class="string">(UTC</span> <span class="string">+08:00)</span></span><br><span class="line"><span class="attr">tags:</span> []</span><br><span class="line"><span class="attr">source:</span> <span class="string">http://luren.bot.cd/articke/xxx</span></span><br><span class="line"><span class="attr">author:</span> <span class="string">路人</span></span><br><span class="line"><span class="meta">---</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="Hexo-需要的格式"><a href="#Hexo-需要的格式" class="headerlink" title="Hexo 需要的格式"></a>Hexo 需要的格式</h3><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="meta">---</span></span><br><span class="line"><span class="attr">title:</span> <span class="string">文章标题</span></span><br><span class="line"><span class="attr">date:</span> <span class="number">2026-10-05 21:46:57</span></span><br><span class="line"><span class="attr">updated:</span> <span class="number">2026-10-05 21:46:57</span></span><br><span class="line"><span class="attr">tags:</span> []</span><br><span class="line"><span class="attr">categories:</span></span><br><span class="line"><span class="meta">---</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="批量转换脚本"><a href="#批量转换脚本" class="headerlink" title="批量转换脚本"></a>批量转换脚本</h3><p>在 <code>luren</code> 目录新建 <code>convert.py</code>：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> os</span><br><span class="line"><span class="keyword">import</span> re</span><br><span class="line"><span class="keyword">from</span> datetime <span class="keyword">import</span> datetime, timedelta</span><br><span class="line"></span><br><span class="line">folder = <span class="string">&#x27;source/_posts&#x27;</span></span><br><span class="line">base_time = datetime(<span class="number">2026</span>, <span class="number">10</span>, <span class="number">5</span>, <span class="number">10</span>, <span class="number">0</span>, <span class="number">0</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> i, filename <span class="keyword">in</span> <span class="built_in">enumerate</span>(<span class="built_in">sorted</span>(os.listdir(folder))):</span><br><span class="line">    <span class="keyword">if</span> <span class="keyword">not</span> filename.endswith(<span class="string">&#x27;.md&#x27;</span>):</span><br><span class="line">        <span class="keyword">continue</span></span><br><span class="line">    path = os.path.join(folder, filename)</span><br><span class="line">    <span class="keyword">with</span> <span class="built_in">open</span>(path, <span class="string">&#x27;r&#x27;</span>, encoding=<span class="string">&#x27;utf-8&#x27;</span>) <span class="keyword">as</span> f:</span><br><span class="line">        content = f.read()</span><br><span class="line"></span><br><span class="line">    <span class="keyword">match</span> = re.<span class="keyword">match</span>(<span class="string">r&#x27;^---\n(.*?)\n---\n(.*)$&#x27;</span>, content, re.DOTALL)</span><br><span class="line">    <span class="keyword">if</span> <span class="keyword">not</span> <span class="keyword">match</span>:</span><br><span class="line">        <span class="built_in">print</span>(<span class="string">f&#x27;跳过（无 front-matter）: <span class="subst">&#123;filename&#125;</span>&#x27;</span>)</span><br><span class="line">        <span class="keyword">continue</span></span><br><span class="line"></span><br><span class="line">    fm, body = <span class="keyword">match</span>.group(<span class="number">1</span>), <span class="keyword">match</span>.group(<span class="number">2</span>)</span><br><span class="line"></span><br><span class="line">    <span class="comment"># 提取 created 或 date</span></span><br><span class="line">    date_match = re.search(<span class="string">r&#x27;(?:created|date):\s*(.+)&#x27;</span>, fm)</span><br><span class="line">    <span class="keyword">if</span> date_match:</span><br><span class="line">        date_str = re.sub(<span class="string">r&#x27;\s*\(UTC.*?\)&#x27;</span>, <span class="string">&#x27;&#x27;</span>, date_match.group(<span class="number">1</span>).strip())</span><br><span class="line">        <span class="keyword">try</span>:</span><br><span class="line">            dt = datetime.fromisoformat(date_str)</span><br><span class="line">            date = dt.strftime(<span class="string">&#x27;%Y-%m-%d %H:%M:%S&#x27;</span>)</span><br><span class="line">        <span class="keyword">except</span>:</span><br><span class="line">            date = (base_time + timedelta(minutes=i)).strftime(<span class="string">&#x27;%Y-%m-%d %H:%M:%S&#x27;</span>)</span><br><span class="line">    <span class="keyword">else</span>:</span><br><span class="line">        date = (base_time + timedelta(minutes=i)).strftime(<span class="string">&#x27;%Y-%m-%d %H:%M:%S&#x27;</span>)</span><br><span class="line"></span><br><span class="line">    title = filename.replace(<span class="string">&#x27;.md&#x27;</span>, <span class="string">&#x27;&#x27;</span>)</span><br><span class="line"></span><br><span class="line">    new_content = <span class="string">f&#x27;&#x27;&#x27;---</span></span><br><span class="line"><span class="string">title: <span class="subst">&#123;title&#125;</span></span></span><br><span class="line"><span class="string">date: <span class="subst">&#123;date&#125;</span></span></span><br><span class="line"><span class="string">updated: <span class="subst">&#123;date&#125;</span></span></span><br><span class="line"><span class="string">tags: []</span></span><br><span class="line"><span class="string">categories:</span></span><br><span class="line"><span class="string">---</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string"><span class="subst">&#123;body.strip()&#125;</span></span></span><br><span class="line"><span class="string">&#x27;&#x27;&#x27;</span></span><br><span class="line">    <span class="keyword">with</span> <span class="built_in">open</span>(path, <span class="string">&#x27;w&#x27;</span>, encoding=<span class="string">&#x27;utf-8&#x27;</span>) <span class="keyword">as</span> f:</span><br><span class="line">        f.write(new_content)</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">f&#x27;已转换: <span class="subst">&#123;filename&#125;</span>&#x27;</span>)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;完成&#x27;</span>)</span><br></pre></td></tr></table></figure>
+
+<p><strong>运行前备份</strong>：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cp</span> -r <span class="built_in">source</span>/_posts <span class="built_in">source</span>/_posts_backup</span><br><span class="line">python convert.py</span><br></pre></td></tr></table></figure>
+
+<p><strong>部署</strong>：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo d -g</span><br></pre></td></tr></table></figure>
+
+<h3 id="导入后的现象"><a href="#导入后的现象" class="headerlink" title="导入后的现象"></a>导入后的现象</h3><p><strong>2023 年的文章会被排到 2026 年的后面</strong>，首页只显示最新几篇，需要<strong>翻页</strong>才能看到。</p>
+<p><strong>想让它们排在前面</strong> → 把 <code>date</code> 改成 2026 年。</p>
+<hr>
+<h2 id="十二、短链接配置（abbrlink）"><a href="#十二、短链接配置（abbrlink）" class="headerlink" title="十二、短链接配置（abbrlink）"></a>十二、短链接配置（abbrlink）</h2><p>Hexo 默认 URL 是 <code>:year/:month/:day/:title/</code>，中文标题会被编码成一长串 <code>%E9%9A...</code>。</p>
+<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-abbrlink --save</span><br></pre></td></tr></table></figure>
+
+<h3 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h3><p>**<code>_config.yml</code>**：</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 注释掉原 permalink</span></span><br><span class="line"><span class="comment"># permalink: :year/:month/:day/:title/</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 改成 abbrlink</span></span><br><span class="line"><span class="attr">permalink:</span> <span class="string">posts/:abbrlink.html</span></span><br><span class="line"></span><br><span class="line"><span class="attr">abbrlink:</span></span><br><span class="line">  <span class="attr">alg:</span> <span class="string">crc32</span></span><br><span class="line">  <span class="attr">rep:</span> <span class="string">hex</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h3><p><strong>改之前</strong>：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">http://luren.bot.cd/2023/06/02/suishen_wifi_md/新版随身Wifi-制作ChatGpt语音助手/</span><br></pre></td></tr></table></figure>
+
+<p><strong>改之后</strong>：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">http://luren.bot.cd/posts/3d0f1a.html</span><br></pre></td></tr></table></figure>
+
+<h3 id="手动指定"><a href="#手动指定" class="headerlink" title="手动指定"></a>手动指定</h3><p>在文章 front-matter 里加：</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">abbrlink:</span> <span class="string">my-custom-link</span></span><br></pre></td></tr></table></figure>
+
+<p>优先级高于自动生成。</p>
+<h3 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h3><ul>
+<li>生成后<strong>链接永久固定</strong>，改标题也不变</li>
+<li>极少数情况会碰撞，手动改一篇文章的 <code>abbrlink</code> 即可</li>
+</ul>
+<hr>
+<h2 id="十三、本地运行编译后的站"><a href="#十三、本地运行编译后的站" class="headerlink" title="十三、本地运行编译后的站"></a>十三、本地运行编译后的站</h2><p><strong>场景</strong>：手上只有 <code>xxxxxxxx.github.io</code>（编译后的静态文件），想在本地跑起来看。</p>
+<h3 id="克隆"><a href="#克隆" class="headerlink" title="克隆"></a>克隆</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> /d/Git_CangKu_2026</span><br><span class="line">git <span class="built_in">clone</span> https://github.com/xxxxxxxx/xxxxxxxx.github.io.git</span><br><span class="line"><span class="built_in">cd</span> xxxxxxxx.github.io</span><br></pre></td></tr></table></figure>
+
+<h3 id="方式一：Conda-Python"><a href="#方式一：Conda-Python" class="headerlink" title="方式一：Conda + Python"></a>方式一：Conda + Python</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">conda activate vibecoding</span><br><span class="line">python -m http.server 8000</span><br></pre></td></tr></table></figure>
+
+<p>浏览器打开 <a href="http://localhost:8000/">http://localhost:8000</a></p>
+<h3 id="方式二：Node-js"><a href="#方式二：Node-js" class="headerlink" title="方式二：Node.js"></a>方式二：Node.js</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npx serve -l 8000</span><br><span class="line"><span class="comment"># 或</span></span><br><span class="line">npx http-server -p 8000</span><br></pre></td></tr></table></figure>
+
+<h3 id="停止"><a href="#停止" class="headerlink" title="停止"></a>停止</h3><p><code>Ctrl + C</code></p>
+<h3 id="注意-1"><a href="#注意-1" class="headerlink" title="注意"></a>注意</h3><ul>
+<li>**不能直接双击 <code>index.html</code>**，绝对路径会 404，必须起服务器</li>
+<li>这只是”看”，<strong>改不了源码</strong>，要改还得回到 <code>luren</code> 源目录</li>
+</ul>
+<hr>
+<h2 id="十四、背景图优化"><a href="#十四、背景图优化" class="headerlink" title="十四、背景图优化"></a>十四、背景图优化</h2><p>背景图太大会导致加载慢。</p>
+<h3 id="检查大小"><a href="#检查大小" class="headerlink" title="检查大小"></a>检查大小</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">ls</span> -lh <span class="built_in">source</span>/img/core/</span><br></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th>大小</th>
+<th>评价</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>&lt; 200 KB</td>
+<td>✅ 很好</td>
+</tr>
+<tr>
+<td>200 KB ~ 1 MB</td>
+<td>⚠️ 可接受</td>
+</tr>
+<tr>
+<td>&gt; 1 MB</td>
+<td>❌ 明显慢</td>
+</tr>
+</tbody></table>
+<h3 id="压缩"><a href="#压缩" class="headerlink" title="压缩"></a>压缩</h3><p>用 <a href="https://squoosh.app/">https://squoosh.app/</a> ：</p>
+<ol>
+<li>拖入图片</li>
+<li>格式选 <strong>WebP</strong></li>
+<li>Quality 调到 <strong>75</strong></li>
+<li>Resize 宽度改成 <strong>1920</strong></li>
+<li>下载替换原文件</li>
+</ol>
+<p><strong>效果</strong>：1.5 MB → 200~300 KB。</p>
+<h3 id="开懒加载"><a href="#开懒加载" class="headerlink" title="开懒加载"></a>开懒加载</h3><p>**<code>_config.butterfly.yml</code>**：</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">lazyload:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">native:</span> <span class="literal">false</span></span><br><span class="line">  <span class="attr">field:</span> <span class="string">site</span></span><br><span class="line">  <span class="attr">placeholder:</span></span><br><span class="line">  <span class="attr">blur:</span> <span class="literal">true</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="Cloudflare-自动压缩"><a href="#Cloudflare-自动压缩" class="headerlink" title="Cloudflare 自动压缩"></a>Cloudflare 自动压缩</h3><p>Cloudflare → <strong>Speed</strong> → <strong>Optimization</strong> → 开 <strong>Polish</strong>（Lossy）。</p>
+<h3 id="换纯色-渐变"><a href="#换纯色-渐变" class="headerlink" title="换纯色&#x2F;渐变"></a>换纯色&#x2F;渐变</h3><figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="comment">/* source/css/custom.css 末尾追加 */</span></span><br><span class="line"><span class="selector-id">#web_bg</span> &#123;</span><br><span class="line">  <span class="attribute">background</span>: <span class="built_in">linear-gradient</span>(<span class="number">135deg</span>, <span class="number">#667eea</span> <span class="number">0%</span>, <span class="number">#764ba2</span> <span class="number">100%</span>) <span class="meta">!important</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>然后 <code>_config.butterfly.yml</code> 里 <code>background:</code> 留空。</p>
+<hr>
+<h2 id="十五、访客统计修复"><a href="#十五、访客统计修复" class="headerlink" title="十五、访客统计修复"></a>十五、访客统计修复</h2><p>Butterfly 默认用 busuanzi（不蒜子），服务不稳定会一直转圈。</p>
+<h3 id="换-Vercount（推荐）"><a href="#换-Vercount（推荐）" class="headerlink" title="换 Vercount（推荐）"></a>换 Vercount（推荐）</h3><p>**<code>_config.butterfly.yml</code>**，搜 <code>option:</code>：</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">option:</span></span><br><span class="line">    <span class="attr">busuanzi:</span> <span class="string">https://events.vercount.one/js</span></span><br></pre></td></tr></table></figure>
+
+<p><strong>开关保持</strong>：</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">busuanzi:</span></span><br><span class="line">  <span class="attr">site_uv:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">site_pv:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">page_pv:</span> <span class="literal">true</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="备选-CDN"><a href="#备选-CDN" class="headerlink" title="备选 CDN"></a>备选 CDN</h3><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">busuanzi:</span> <span class="string">https://cn.cdn.staticfile.org/busuanzi/2.3.0/bsz.pure.mini.js</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="彻底关掉"><a href="#彻底关掉" class="headerlink" title="彻底关掉"></a>彻底关掉</h3><figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">busuanzi:</span></span><br><span class="line">  <span class="attr">site_uv:</span> <span class="literal">false</span></span><br><span class="line">  <span class="attr">site_pv:</span> <span class="literal">false</span></span><br><span class="line">  <span class="attr">page_pv:</span> <span class="literal">false</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="排查"><a href="#排查" class="headerlink" title="排查"></a>排查</h3><p>F12 → Console，看有没有：</p>
+<table>
+<thead>
+<tr>
+<th>报错</th>
+<th>原因</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>vercount.one</code> 加载失败</td>
+<td>脚本没加载</td>
+</tr>
+<tr>
+<td><code>busuanzi.ibruce.info</code></td>
+<td>还在用旧地址</td>
+</tr>
+<tr>
+<td><code>net::ERR_BLOCKED_BY_CLIENT</code></td>
+<td>广告拦截插件</td>
+</tr>
+</tbody></table>
+<p><strong>禁用广告拦截插件</strong>或把 <code>luren.bot.cd</code> 加白名单。</p>
+<hr>
+<h2 id="十六、日常流程"><a href="#十六、日常流程" class="headerlink" title="十六、日常流程"></a>十六、日常流程</h2><h3 id="写文章-部署"><a href="#写文章-部署" class="headerlink" title="写文章 + 部署"></a>写文章 + 部署</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> /d/luren</span><br><span class="line"></span><br><span class="line"><span class="comment"># 1. 新建文章</span></span><br><span class="line">hexo new <span class="string">&quot;文章标题&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 2. 编辑 source/_posts/文章标题.md</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 3. 本地预览</span></span><br><span class="line">hexo s</span><br><span class="line"></span><br><span class="line"><span class="comment"># 4. 部署到 GitHub</span></span><br><span class="line">hexo clean &amp;&amp; hexo d -g</span><br></pre></td></tr></table></figure>
+
+<h3 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h3><table>
+<thead>
+<tr>
+<th>命令</th>
+<th>作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>hexo new &quot;标题&quot;</code></td>
+<td>新建文章</td>
+</tr>
+<tr>
+<td><code>hexo new page &quot;about&quot;</code></td>
+<td>新建独立页面</td>
+</tr>
+<tr>
+<td><code>hexo s</code></td>
+<td>本地预览</td>
+</tr>
+<tr>
+<td><code>hexo g</code></td>
+<td>生成静态文件</td>
+</tr>
+<tr>
+<td><code>hexo clean</code></td>
+<td>清缓存</td>
+</tr>
+<tr>
+<td><code>hexo d</code></td>
+<td>部署</td>
+</tr>
+<tr>
+<td><code>hexo clean &amp;&amp; hexo d -g</code></td>
+<td>一键清理 + 生成 + 部署</td>
+</tr>
+</tbody></table>
+<h3 id="验证部署稳定性"><a href="#验证部署稳定性" class="headerlink" title="验证部署稳定性"></a>验证部署稳定性</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo d -g</span><br><span class="line">hexo clean &amp;&amp; hexo d -g</span><br></pre></td></tr></table></figure>
+
+<p><strong>第二次应该只有 0~2 个文件变化</strong>。</p>
+<p>如果还是 10+ 个：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 检查每篇文章的 front-matter</span></span><br><span class="line">grep -E <span class="string">&quot;^(title|date|updated):&quot;</span> <span class="built_in">source</span>/_posts/*.md</span><br></pre></td></tr></table></figure>
+
+<p>每篇都必须有 <code>date</code> 和 <code>updated</code>。</p>
+<hr>
+<h2 id="十八、常见现象排查"><a href="#十八、常见现象排查" class="headerlink" title="十八、常见现象排查"></a>十八、常见现象排查</h2><h3 id="1-首页只显示几篇"><a href="#1-首页只显示几篇" class="headerlink" title="1. 首页只显示几篇"></a>1. 首页只显示几篇</h3><p><strong>现象</strong>：导入老文章后，首页只看到最近 3 篇。</p>
+<p><strong>原因</strong>：Hexo 按日期倒序排，老文章排到后面了。</p>
+<p><strong>验证</strong>：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 浏览器访问</span></span><br><span class="line">https://luren.bot.cd/archives/</span><br></pre></td></tr></table></figure>
+
+<p><strong>解决</strong>：翻页，或把老文章日期改成近期。</p>
+<hr>
+<h3 id="2-CSS-改了没生效"><a href="#2-CSS-改了没生效" class="headerlink" title="2. CSS 改了没生效"></a>2. CSS 改了没生效</h3><p><strong>现象</strong>：改了 <code>custom.css</code>，页面上没变化。</p>
+<p><strong>原因</strong>：浏览器或 Cloudflare 缓存了旧版本。</p>
+<p><strong>解决</strong>：</p>
+<ol>
+<li><code>_config.butterfly.yml</code> 里 <code>?v=</code> 后的数字加 1</li>
+<li><code>hexo clean &amp;&amp; hexo d -g</code></li>
+<li><code>Ctrl + Shift + R</code> 强刷</li>
+</ol>
+<hr>
+<h3 id="3-URL-太长（中文编码）"><a href="#3-URL-太长（中文编码）" class="headerlink" title="3. URL 太长（中文编码）"></a>3. URL 太长（中文编码）</h3><p><strong>现象</strong>：<code>/2023/06/02/suishen_wifi_md/%E6%96%B0%E7%89%88...</code></p>
+<p><strong>解决</strong>：装 <code>hexo-abbrlink</code> 插件，见第十二章。</p>
+<hr>
+<h3 id="4-图片加载慢"><a href="#4-图片加载慢" class="headerlink" title="4. 图片加载慢"></a>4. 图片加载慢</h3><p><strong>现象</strong>：背景图半天不出来。</p>
+<p><strong>解决</strong>：见第十四章，压缩图片 + 开懒加载。</p>
+<hr>
+<h3 id="5-部署时-10-文件变化"><a href="#5-部署时-10-文件变化" class="headerlink" title="5. 部署时 10+ 文件变化"></a>5. 部署时 10+ 文件变化</h3><p><strong>现象</strong>：每次 <code>hexo d</code> 都提交一堆文件。</p>
+<p><strong>原因</strong>：</p>
+<ul>
+<li>文章缺 <code>date</code> 或 <code>updated</code></li>
+<li>CRLF 换行符转换</li>
+</ul>
+<p><strong>解决</strong>：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 检查文章</span></span><br><span class="line">grep -E <span class="string">&quot;^(title|date|updated):&quot;</span> <span class="built_in">source</span>/_posts/*.md</span><br><span class="line"></span><br><span class="line"><span class="comment"># 检查换行符</span></span><br><span class="line"><span class="built_in">cat</span> .gitattributes</span><br><span class="line">git config --global core.autocrlf</span><br></pre></td></tr></table></figure>
+
+<hr>
+<h3 id="6-favicon-404"><a href="#6-favicon-404" class="headerlink" title="6. favicon 404"></a>6. favicon 404</h3><p><strong>现象</strong>：控制台报 <code>GET /favicon.ico 404</code>。</p>
+<p><strong>原因</strong>：<code>source/img/favicon.ico</code> 不存在。</p>
+<p><strong>解决</strong>：放一个图标，或忽略（不影响功能）。</p>
+<hr>
+<h3 id="7-字体-404"><a href="#7-字体-404" class="headerlink" title="7. 字体 404"></a>7. 字体 404</h3><p><strong>现象</strong>：<code>/font/UnidreamLED.ttf 404</code>。</p>
+<p><strong>解决</strong>：</p>
+<ul>
+<li>下载字体放到 <code>source/font/</code>，或</li>
+<li>删掉 <code>custom.css</code> 里的 <code>@font-face</code> 段</li>
+</ul>
+<hr>
+<h3 id="8-头像转圈"><a href="#8-头像转圈" class="headerlink" title="8. 头像转圈"></a>8. 头像转圈</h3><p><strong>现象</strong>：侧边栏头像一直转圈。</p>
+<p><strong>原因</strong>：<code>source/img/avatar.jpg</code> 不存在。</p>
+<p><strong>解决</strong>：放一张头像，或把配置注释掉。</p>
+<hr>
+<h3 id="9-文章卡片-404-图"><a href="#9-文章卡片-404-图" class="headerlink" title="9. 文章卡片 404 图"></a>9. 文章卡片 404 图</h3><p><strong>现象</strong>：首页文章封面显示 404。</p>
+<p><strong>原因</strong>：文章 front-matter 里的 <code>cover:</code> 路径图片不存在。</p>
+<p><strong>解决</strong>：</p>
+<ul>
+<li>删掉该行让它用 <code>default_cover</code>，或</li>
+<li>放对应图片到 <code>source/img/</code></li>
+</ul>
+<hr>
+<h3 id="10-导航-标题在深色背景上看不清"><a href="#10-导航-标题在深色背景上看不清" class="headerlink" title="10. 导航&#x2F;标题在深色背景上看不清"></a>10. 导航&#x2F;标题在深色背景上看不清</h3><p><strong>现象</strong>：文字太暗，和背景糊在一起。</p>
+<p><strong>原因</strong>：<code>custom.css</code> 里明亮模式文字颜色是深灰 <code>#2c3e50</code>。</p>
+<p><strong>解决</strong>：改成白色 <code>#ffffff</code> 加阴影，见第八章第 2 节。</p>
+<hr>
+<h2 id="十九、踩坑记录"><a href="#十九、踩坑记录" class="headerlink" title="十九、踩坑记录"></a>十九、踩坑记录</h2><table>
+<thead>
+<tr>
+<th>坑</th>
+<th>现象</th>
+<th>解决</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Steam++ 改 hosts</strong></td>
+<td><code>ping github.com</code> 返回 <code>127.0.0.1</code>，SSH <code>Connection refused</code></td>
+<td>打开 Steam++ → 取消 GitHub 相关项；或手动清 hosts 里 <code># Steam++ Start</code> 到 <code># Steam++ End</code> 之间内容</td>
+</tr>
+<tr>
+<td><strong>SSH 22 端口被封</strong></td>
+<td><code>ssh -T git@github.com</code> 报 <code>Connection refused</code></td>
+<td><code>~/.ssh/config</code> 走 <code>ssh.github.com:443</code></td>
+</tr>
+<tr>
+<td><strong>公钥没加 GitHub</strong></td>
+<td><code>Permission denied (publickey)</code></td>
+<td><code>cat ~/.ssh/id_ed25519.pub</code> 复制到 GitHub SSH keys</td>
+</tr>
+<tr>
+<td><strong>部署走 HTTPS</strong></td>
+<td><code>unable to access &#39;https://...&#39;</code></td>
+<td><code>_config.yml</code> 的 <code>repo</code> 改成 <code>git@github.com:...</code>，<code>rm -rf .deploy_git</code></td>
+</tr>
+<tr>
+<td><strong>YAML 重复键</strong></td>
+<td><code>YAMLException: duplicated mapping key</code></td>
+<td>搜重复的键（如 <code>local_search:</code>）删掉一个</td>
+</tr>
+<tr>
+<td><strong>运行时间 NaN</strong></td>
+<td>显示 <code>NaN 年 NaN 天</code></td>
+<td><code>new Date(2026, 9, 4, 19, 5, 28)</code> 用数字参数</td>
+</tr>
+<tr>
+<td><strong>自定义域名 404</strong></td>
+<td>域名访问 404</td>
+<td>检查 <code>source/CNAME</code>、Pages 的 Custom domain、DNS 记录</td>
+</tr>
+<tr>
+<td><strong>改名后部署失败</strong></td>
+<td>旧地址指向不存在仓库</td>
+<td><code>_config.yml</code> 改 <code>deploy.repo</code> 和 <code>url</code>，<code>rm -rf .deploy_git</code></td>
+</tr>
+<tr>
+<td><strong>每次部署 11 个文件变化</strong></td>
+<td>列表页抖动</td>
+<td>文章加 <code>date</code> 和 <code>updated</code>；<code>_config.yml</code> 加 <code>updated_option: &#39;date&#39;</code>、<code>index_generator.order_by: -date</code></td>
+</tr>
+<tr>
+<td><strong>CRLF 警告刷屏</strong></td>
+<td>大量 <code>LF will be replaced by CRLF</code></td>
+<td>加 <code>.gitattributes</code>，<code>git config --global core.autocrlf false</code></td>
+</tr>
+<tr>
+<td><strong>message 显示 <code>YYYY-10-2026年...</code></strong></td>
+<td><code>now()</code> 不工作</td>
+<td><code>message</code> 改成固定文字 <code>&quot;更新博客&quot;</code></td>
+</tr>
+<tr>
+<td><strong>CSS 改了没生效</strong></td>
+<td>页面无变化</td>
+<td><code>?v=1</code> 加 1；<code>hexo clean &amp;&amp; hexo d -g</code></td>
+</tr>
+<tr>
+<td><strong>头像转圈不显示</strong></td>
+<td>吃豆人动画</td>
+<td><code>source/img/avatar.jpg</code> 不存在</td>
+</tr>
+<tr>
+<td><strong>文章 404 封面</strong></td>
+<td>卡片显示 404 图</td>
+<td>删掉 <code>cover:</code> 行或补图片</td>
+</tr>
+<tr>
+<td><strong>夜间卡片磨砂重</strong></td>
+<td>背景透太多</td>
+<td><code>rgba(30, 30, 30, 0.6)</code> 改成 <code>0.9</code></td>
+</tr>
+<tr>
+<td><strong>导入文章首页看不到</strong></td>
+<td>老文章排到后面</td>
+<td>翻页，或改日期到近期</td>
+</tr>
+<tr>
+<td><strong>中文 URL 太长</strong></td>
+<td><code>%E9%9A%8F...</code> 一长串</td>
+<td>装 <code>hexo-abbrlink</code></td>
+</tr>
+<tr>
+<td><strong>背景图加载慢</strong></td>
+<td>1.5 MB 起步</td>
+<td>squoosh.app 压到 300 KB，开 blur 懒加载</td>
+</tr>
+<tr>
+<td><strong>访客统计一直转圈</strong></td>
+<td>busuanzi 不稳定</td>
+<td>换 <code>https://events.vercount.one/js</code></td>
+</tr>
+<tr>
+<td><strong><code>?v=2</code> 报 404</strong></td>
+<td>CSS 完全不生效</td>
+<td>改成 <code>?v=10</code>，清 Cloudflare 缓存</td>
+</tr>
+<tr>
+<td><strong><code>custom.css</code> 404</strong></td>
+<td>页面样式全丢</td>
+<td>检查 <code>public/css/custom.css</code> 是否生成，Cloudflare 清缓存</td>
+</tr>
+<tr>
+<td><strong>首页只显示 3 篇</strong></td>
+<td>以为文章丢了</td>
+<td>是 2023 年文章排后面，翻页看</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="最终清单"><a href="#最终清单" class="headerlink" title="最终清单"></a>最终清单</h2><table>
+<thead>
+<tr>
+<th>项目</th>
+<th>值</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>博客目录</td>
+<td><code>D:\luren</code></td>
+</tr>
+<tr>
+<td>GitHub 用户名</td>
+<td><code>xxxxxxxx</code></td>
+</tr>
+<tr>
+<td>GitHub 仓库</td>
+<td><code>xxxxxxxx/xxxxxxxx.github.io</code></td>
+</tr>
+<tr>
+<td>自定义域名</td>
+<td><code>https://luren.bot.cd</code></td>
+</tr>
+<tr>
+<td>Pages 备用</td>
+<td><code>https://xxxxxxxx.github.io</code></td>
+</tr>
+<tr>
+<td>主题</td>
+<td>Butterfly</td>
+</tr>
+<tr>
+<td>主题色</td>
+<td><code>#ff7142</code></td>
+</tr>
+<tr>
+<td>部署</td>
+<td>SSH（443 端口）</td>
+</tr>
+<tr>
+<td>源码备份</td>
+<td>Gitee <code>hexo-blog</code></td>
+</tr>
+<tr>
+<td>短链接</td>
+<td><code>hexo-abbrlink</code>（<code>/posts/xxx.html</code>）</td>
+</tr>
+<tr>
+<td>本地运行</td>
+<td>Conda + <code>python -m http.server 8000</code> 或 <code>npx serve -l 8000</code></td>
+</tr>
+<tr>
+<td>访客统计</td>
+<td>Vercount（<code>events.vercount.one</code>）</td>
+</tr>
+<tr>
+<td>背景优化</td>
+<td>squoosh.app 压缩 + blur 懒加载</td>
+</tr>
+</tbody></table>
+<hr>
+<p><strong>建议保存为 <code>README.md</code> 放在博客根目录</strong>，换电脑或遇到问题时直接翻。</p>
 ]]></content>
       <categories>
         <category>技术</category>
